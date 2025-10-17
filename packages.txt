@@ -1,0 +1,3090 @@
+Package list snapshot: 2025-10-17T01:29Z
+
+----- dpkg --get-selections -----
+accountsservice					install
+acl						install
+adduser						install
+adwaita-icon-theme				install
+alsa-base					install
+alsa-topology-conf				install
+alsa-ucm-conf					install
+alsa-utils					install
+amd64-microcode					install
+anacron						install
+apg						install
+apparmor					install
+apport						install
+apport-core-dump-handler			install
+apport-gtk					install
+apport-symptoms					install
+appstream					install
+apt						install
+apt-config-icons				install
+apt-config-icons-hidpi				install
+apt-utils					install
+aptdaemon					install
+aptdaemon-data					install
+aspell						install
+aspell-en					install
+at-spi2-common					install
+at-spi2-core					install
+avahi-daemon					install
+baobab						install
+base-files					install
+base-passwd					install
+bash						install
+bash-completion					install
+bc						install
+bind9-dnsutils					install
+bind9-host					install
+bind9-libs:amd64				install
+binutils					install
+binutils-common:amd64				install
+binutils-x86-64-linux-gnu			install
+bluez						install
+bluez-cups					install
+bluez-obexd					install
+bolt						install
+bpfcc-tools					install
+bpftool						install
+bpftrace					install
+brltty						install
+bsdextrautils					install
+bsdutils					install
+bubblewrap					install
+busybox-initramfs				install
+busybox-static					install
+ca-certificates					install
+cloud-guest-utils				install
+cloud-init					install
+cloud-init-base					install
+colord						install
+colord-data					install
+command-not-found				install
+console-setup					install
+console-setup-linux				install
+coreutils					install
+cpdb-backend-cups				install
+cpio						install
+cpp						install
+cpp-14						install
+cpp-14-x86-64-linux-gnu				install
+cpp-x86-64-linux-gnu				install
+cracklib-runtime				install
+crash						install
+cron						install
+cron-daemon-common				install
+cups						install
+cups-browsed					install
+cups-bsd					install
+cups-client					install
+cups-common					install
+cups-core-drivers				install
+cups-daemon					install
+cups-filters					install
+cups-filters-core-drivers			install
+cups-ipp-utils					install
+cups-pk-helper					install
+cups-ppdc					install
+cups-server-common				install
+curl						install
+dash						install
+dbus						install
+dbus-bin					install
+dbus-daemon					install
+dbus-session-bus-common				install
+dbus-system-bus-common				install
+dbus-user-session				install
+dc						install
+dconf-cli					install
+dconf-gsettings-backend:amd64			install
+dconf-service					install
+debconf						install
+debconf-i18n					install
+debianutils					install
+desktop-file-utils				install
+dhcpcd-base					install
+dictionaries-common				install
+diffutils					install
+dirmngr						install
+distro-info					install
+distro-info-data				install
+dmidecode					install
+dmsetup						install
+dmz-cursor-theme				install
+dns-root-data					install
+dnsmasq-base					install
+docbook-xml					install
+dosfstools					install
+dpkg						install
+dracut-install					install
+e2fsprogs					install
+e2fsprogs-l10n					install
+eatmydata					install
+ed						install
+eject						install
+emacsen-common					install
+enchant-2					install
+eog						install
+espeak-ng-data:amd64				install
+ethtool						install
+evolution-data-server				install
+evolution-data-server-common			install
+exfatprogs					install
+fdisk						install
+file						install
+findutils					install
+firefox						install
+firmware-sof-signed				install
+fontconfig					install
+fontconfig-config				install
+fonts-dejavu-core				install
+fonts-dejavu-mono				install
+fonts-droid-fallback				install
+fonts-liberation				install
+fonts-liberation-sans-narrow			install
+fonts-noto-cjk					install
+fonts-noto-color-emoji				install
+fonts-noto-core					install
+fonts-noto-mono					install
+fonts-ubuntu					install
+fonts-urw-base35				install
+foomatic-db-compressed-ppds			install
+fprintd						install
+friendly-recovery				install
+ftp						install
+fuse3						install
+fwupd						install
+fwupd-signed					install
+gamemode					install
+gamemode-daemon					install
+gcc-14-base:amd64				install
+gcc-15-base:amd64				install
+gcr						install
+gcr4						install
+gdb						install
+gdisk						install
+gdm3						install
+geoclue-2.0					install
+geocode-glib-common				install
+gettext-base					install
+ghostscript					install
+gir1.2-accountsservice-1.0:amd64		install
+gir1.2-adw-1:amd64				install
+gir1.2-atk-1.0:amd64				install
+gir1.2-atspi-2.0:amd64				install
+gir1.2-freedesktop:amd64			install
+gir1.2-gck-2:amd64				install
+gir1.2-gcr-4:amd64				install
+gir1.2-gdesktopenums-3.0:amd64			install
+gir1.2-gdkpixbuf-2.0:amd64			install
+gir1.2-gdm-1.0					install
+gir1.2-geoclue-2.0:amd64			install
+gir1.2-girepository-2.0:amd64			install
+gir1.2-glib-2.0:amd64				install
+gir1.2-gmenu-3.0:amd64				install
+gir1.2-gnomeautoar-0.1:amd64			install
+gir1.2-gnomebg-4.0:amd64			install
+gir1.2-gnomebluetooth-3.0:amd64			install
+gir1.2-gnomedesktop-3.0:amd64			install
+gir1.2-gnomedesktop-4.0:amd64			install
+gir1.2-graphene-1.0:amd64			install
+gir1.2-gstreamer-1.0:amd64			install
+gir1.2-gtk-3.0:amd64				install
+gir1.2-gtk-4.0:amd64				install
+gir1.2-gweather-4.0:amd64			install
+gir1.2-handy-1:amd64				install
+gir1.2-harfbuzz-0.0:amd64			install
+gir1.2-ibus-1.0:amd64				install
+gir1.2-javascriptcoregtk-4.1:amd64		install
+gir1.2-mutter-16:amd64				install
+gir1.2-nm-1.0:amd64				install
+gir1.2-nma4-1.0:amd64				install
+gir1.2-notify-0.7:amd64				install
+gir1.2-packagekitglib-1.0			install
+gir1.2-pango-1.0:amd64				install
+gir1.2-peas-1.0:amd64				install
+gir1.2-polkit-1.0				install
+gir1.2-rsvg-2.0:amd64				install
+gir1.2-secret-1:amd64				install
+gir1.2-snapd-2:amd64				install
+gir1.2-soup-3.0:amd64				install
+gir1.2-upowerglib-1.0:amd64			install
+gir1.2-vte-2.91:amd64				install
+gir1.2-webkit2-4.1:amd64			install
+gir1.2-wnck-3.0:amd64				install
+git						install
+git-man						install
+gjs						install
+glib-networking:amd64				install
+glib-networking-common				install
+glib-networking-services			install
+gnome-accessibility-themes			install
+gnome-bluetooth-3-common			install
+gnome-bluetooth-sendto				install
+gnome-calculator				install
+gnome-characters				install
+gnome-clocks					install
+gnome-control-center				install
+gnome-control-center-data			install
+gnome-control-center-faces			install
+gnome-desktop3-data				install
+gnome-disk-utility				install
+gnome-font-viewer				install
+gnome-initial-setup				install
+gnome-keyring					install
+gnome-keyring-pkcs11:amd64			install
+gnome-logs					install
+gnome-menus					install
+gnome-online-accounts				install
+gnome-power-manager				install
+gnome-remote-desktop				install
+gnome-session-bin				install
+gnome-session-canberra				install
+gnome-session-common				install
+gnome-settings-daemon				install
+gnome-settings-daemon-common			install
+gnome-shell					install
+gnome-shell-common				install
+gnome-shell-extension-appindicator		install
+gnome-shell-extension-desktop-icons-ng		install
+gnome-shell-extension-ubuntu-dock		install
+gnome-shell-extension-ubuntu-tiling-assistant	install
+gnome-startup-applications			install
+gnome-system-monitor				install
+gnome-terminal					install
+gnome-terminal-data				install
+gnome-text-editor				install
+gnome-themes-extra:amd64			install
+gnome-themes-extra-data				install
+gnome-user-docs					install
+gnupg						install
+gnupg-l10n					install
+gnupg-utils					install
+gpg						install
+gpg-agent					install
+gpg-wks-client					install
+gpgconf						install
+gpgsm						install
+gpgv						install
+grep						install
+groff-base					install
+grub-common					install
+grub-gfxpayload-lists				install
+grub-pc						install
+grub-pc-bin					install
+grub2-common					install
+gsettings-desktop-schemas			install
+gsettings-ubuntu-schemas			install
+gstreamer1.0-alsa:amd64				install
+gstreamer1.0-gl:amd64				install
+gstreamer1.0-packagekit				install
+gstreamer1.0-pipewire:amd64			install
+gstreamer1.0-plugins-base:amd64			install
+gstreamer1.0-plugins-base-apps			install
+gstreamer1.0-plugins-good:amd64			install
+gstreamer1.0-tools				install
+gstreamer1.0-x:amd64				install
+gtk-update-icon-cache				install
+gtk2-engines-murrine:amd64			install
+gtk2-engines-pixbuf:amd64			install
+gvfs:amd64					install
+gvfs-backends					install
+gvfs-common					install
+gvfs-daemons					install
+gvfs-fuse					install
+gvfs-libs:amd64					install
+gzip						install
+hdparm						install
+heif-gdk-pixbuf:amd64				install
+heif-thumbnailer				install
+hicolor-icon-theme				install
+hostname					install
+hplip						install
+hplip-data					install
+htop						install
+hunspell-en-us					install
+hwdata						install
+ibus						install
+ibus-data					install
+ibus-gtk:amd64					install
+ibus-gtk3:amd64					install
+ibus-gtk4:amd64					install
+ibus-table					install
+ibus-table-cangjie-big				install
+ibus-table-cangjie3				install
+ibus-table-cangjie5				install
+ibverbs-providers:amd64				install
+ieee-data					install
+iio-sensor-proxy				install
+im-config					install
+inetutils-telnet				install
+info						install
+init						install
+init-system-helpers				install
+initramfs-tools					install
+initramfs-tools-bin				install
+initramfs-tools-core				install
+inputattach					install
+install-info					install
+intel-microcode					install
+ipp-usb						install
+iproute2					install
+iptables					install
+iputils-ping					install
+iputils-tracepath				install
+iso-codes					install
+iucode-tool					install
+iw						install
+jq						install
+kbd						install
+kdump-tools					install
+kexec-tools					install
+keyboard-configuration				install
+keyboxd						install
+klibc-utils					install
+kmod						install
+krb5-locales					install
+language-pack-en				install
+language-pack-en-base				install
+language-pack-gnome-en				install
+language-pack-gnome-en-base			install
+language-selector-common			install
+language-selector-gnome				install
+laptop-detect					install
+ldap-utils					install
+less						install
+libaa1:amd64					install
+libabsl20230802:amd64				install
+libaccountsservice0:amd64			install
+libacl1:amd64					install
+libadwaita-1-0:amd64				install
+libao-common					install
+libao4:amd64					install
+libaom3:amd64					install
+libapparmor1:amd64				install
+libappstream5:amd64				install
+libapt-pkg7.0:amd64				install
+libarchive13t64:amd64				install
+libasound2-data					install
+libasound2t64:amd64				install
+libaspell15:amd64				install
+libassuan9:amd64				install
+libasyncns0:amd64				install
+libatasmart4:amd64				install
+libatk-adaptor:amd64				install
+libatk-bridge2.0-0t64:amd64			install
+libatk1.0-0t64:amd64				install
+libatomic1:amd64				install
+libatopology2t64:amd64				install
+libatspi2.0-0t64:amd64				install
+libattr1:amd64					install
+libaudit-common					install
+libaudit1:amd64					install
+libauthen-sasl-perl				install
+libavahi-client3:amd64				install
+libavahi-common-data:amd64			install
+libavahi-common3:amd64				install
+libavahi-core7:amd64				install
+libavahi-glib1:amd64				install
+libavc1394-0:amd64				install
+libayatana-appindicator3-1			install
+libayatana-ido3-0.4-0:amd64			install
+libayatana-indicator3-7:amd64			install
+libbabeltrace1:amd64				install
+libbasicobjects0t64:amd64			install
+libbinutils:amd64				install
+libblkid1:amd64					install
+libblockdev-crypto3:amd64			install
+libblockdev-fs3:amd64				install
+libblockdev-loop3:amd64				install
+libblockdev-mdraid3:amd64			install
+libblockdev-nvme3:amd64				install
+libblockdev-part3:amd64				install
+libblockdev-swap3:amd64				install
+libblockdev-utils3:amd64			install
+libblockdev3:amd64				install
+libbluetooth3:amd64				install
+libbpf1:amd64					install
+libbpfcc:amd64					install
+libbrlapi0.8:amd64				install
+libbrotli1:amd64				install
+libbsd0:amd64					install
+libbytesize-common				install
+libbytesize1:amd64				install
+libbz2-1.0:amd64				install
+libc-bin					install
+libc-dev-bin					install
+libc6:amd64					install
+libc6-dbg:amd64					install
+libc6-dev:amd64					install
+libcaca0:amd64					install
+libcairo-gobject-perl				install
+libcairo-gobject2:amd64				install
+libcairo-perl					install
+libcairo-script-interpreter2:amd64		install
+libcairo2:amd64					install
+libcairomm-1.16-1:amd64				install
+libcamel-1.2-64t64:amd64			install
+libcanberra-gtk3-0:amd64			install
+libcanberra-gtk3-module:amd64			install
+libcanberra-pulse:amd64				install
+libcanberra0:amd64				install
+libcap-ng0:amd64				install
+libcap2:amd64					install
+libcap2-bin					install
+libcares2:amd64					install
+libcbor0.10:amd64				install
+libcdio-cdda2t64:amd64				install
+libcdio-paranoia2t64:amd64			install
+libcdio19t64:amd64				install
+libcdparanoia0:amd64				install
+libchewing3:amd64				install
+libchewing3-data				install
+libclang-cpp18					install
+libclang1-19					install
+libclone-perl:amd64				install
+libcollection4t64:amd64				install
+libcolord-gtk4-1t64:amd64			install
+libcolord2:amd64				install
+libcolorhug2:amd64				install
+libcom-err2:amd64				install
+libcpdb-frontend2t64:amd64			install
+libcpdb2t64:amd64				install
+libcrack2:amd64					install
+libcrypt-dev:amd64				install
+libcrypt1:amd64					install
+libcryptsetup12:amd64				install
+libctf-nobfd0:amd64				install
+libctf0:amd64					install
+libcue2:amd64					install
+libcups2t64:amd64				install
+libcupsfilters2-common				install
+libcupsfilters2t64:amd64			install
+libcupsimage2t64:amd64				install
+libcurl3t64-gnutls:amd64			install
+libcurl4t64:amd64				install
+libdaemon0:amd64				install
+libdata-dump-perl				install
+libdatrie1:amd64				install
+libdb5.3t64:amd64				install
+libdbus-1-3:amd64				install
+libdbusmenu-glib4:amd64				install
+libdbusmenu-gtk3-4:amd64			install
+libdconf1:amd64					install
+libde265-0:amd64				install
+libdebconfclient0:amd64				install
+libdebuginfod-common				install
+libdebuginfod1t64:amd64				install
+libdecor-0-0:amd64				install
+libdecor-0-plugin-1-gtk:amd64			install
+libdee-1.0-4:amd64				install
+libdeflate0:amd64				install
+libdevmapper1.02.1:amd64			install
+libdex-1-1:amd64				install
+libdhash1t64:amd64				install
+libdisplay-info2:amd64				install
+libdjvulibre-text				install
+libdjvulibre21:amd64				install
+libdotconf0:amd64				install
+libdrm-amdgpu1:amd64				install
+libdrm-common					install
+libdrm-intel1:amd64				install
+libdrm-nouveau2:amd64				install
+libdrm-radeon1:amd64				install
+libdrm2:amd64					install
+libduktape207:amd64				install
+libdv4t64:amd64					install
+libdw1t64:amd64					install
+libeatmydata1:amd64				install
+libebackend-1.2-11t64:amd64			install
+libebook-1.2-21t64:amd64			install
+libebook-contacts-1.2-4t64:amd64		install
+libecal-2.0-3:amd64				install
+libedata-book-1.2-27t64:amd64			install
+libedata-cal-2.0-2t64:amd64			install
+libedataserver-1.2-27t64:amd64			install
+libedataserverui-1.2-4t64:amd64			install
+libedit2:amd64					install
+libeditorconfig0:amd64				install
+libefiboot1t64:amd64				install
+libefivar1t64:amd64				install
+libegl-mesa0:amd64				install
+libegl1:amd64					install
+libei1:amd64					install
+libeis1:amd64					install
+libelf1t64:amd64				install
+libenchant-2-2:amd64				install
+libencode-locale-perl				install
+libepoxy0:amd64					install
+liberror-perl					install
+libespeak-ng1:amd64				install
+libestr0:amd64					install
+libevdev2:amd64					install
+libexempi8:amd64				install
+libexif12:amd64					install
+libexiv2-28:amd64				install
+libexiv2-data					install
+libexpat1:amd64					install
+libext2fs2t64:amd64				install
+libextutils-depends-perl			install
+libfastjson4:amd64				install
+libfdisk1:amd64					install
+libffi8:amd64					install
+libfftw3-single3:amd64				install
+libfido2-1:amd64				install
+libfile-basedir-perl				install
+libfile-desktopentry-perl			install
+libfile-listing-perl				install
+libfile-mimeinfo-perl				install
+libflac14:amd64					install
+libflashrom1:amd64				install
+libfont-afm-perl				install
+libfontconfig1:amd64				install
+libfontenc1:amd64				install
+libfprint-2-2					install
+libfprint-2-tod1:amd64				install
+libfreeaptx0:amd64				install
+libfreerdp-server3-3:amd64			install
+libfreerdp3-3:amd64				install
+libfreetype6:amd64				install
+libfribidi0:amd64				install
+libftdi1-2:amd64				install
+libfuse3-3:amd64				install
+libfwupd3:amd64					install
+libgail-common:amd64				install
+libgail18t64:amd64				install
+libgamemode0:amd64				install
+libgamemodeauto0:amd64				install
+libgbm1:amd64					install
+libgcc-s1:amd64					install
+libgck-1-0:amd64				install
+libgck-2-2:amd64				install
+libgcr-4-4:amd64				install
+libgcr-base-3-1:amd64				install
+libgcr-ui-3-1:amd64				install
+libgcrypt20:amd64				install
+libgd3:amd64					install
+libgdata-common					install
+libgdata22:amd64				install
+libgdbm-compat4t64:amd64			install
+libgdbm6t64:amd64				install
+libgdk-pixbuf-2.0-0:amd64			install
+libgdk-pixbuf2.0-bin				install
+libgdk-pixbuf2.0-common				install
+libgdm1						install
+libgee-0.8-2:amd64				install
+libgeoclue-2-0:amd64				install
+libgeocode-glib-2-0:amd64			install
+libgexiv2-2:amd64				install
+libgif7:amd64					install
+libgirepository-1.0-1:amd64			install
+libgjs0g:amd64					install
+libgl1:amd64					install
+libgl1-mesa-dri:amd64				install
+libgles2:amd64					install
+libglib-object-introspection-perl		install
+libglib-perl:amd64				install
+libglib2.0-0t64:amd64				install
+libglib2.0-bin					install
+libglib2.0-data					install
+libglibmm-2.68-1t64:amd64			install
+libglu1-mesa:amd64				install
+libglvnd0:amd64					install
+libglx-mesa0:amd64				install
+libglx0:amd64					install
+libgmp10:amd64					install
+libgnome-autoar-0-0:amd64			install
+libgnome-bg-4-2t64:amd64			install
+libgnome-bluetooth-3.0-13:amd64			install
+libgnome-bluetooth-ui-3.0-13:amd64		install
+libgnome-desktop-3-20t64:amd64			install
+libgnome-desktop-4-2t64:amd64			install
+libgnome-menu-3-0:amd64				install
+libgnome-rr-4-2t64:amd64			install
+libgnutls30t64:amd64				install
+libgoa-1.0-0b:amd64				install
+libgoa-1.0-common				install
+libgoa-backend-1.0-2:amd64			install
+libgomp1:amd64					install
+libgpg-error-l10n				install
+libgpg-error0:amd64				install
+libgpgme11t64:amd64				install
+libgpgmepp6t64:amd64				install
+libgphoto2-6t64:amd64				install
+libgphoto2-l10n					install
+libgphoto2-port12t64:amd64			install
+libgpm2:amd64					install
+libgprofng0:amd64				install
+libgraphene-1.0-0:amd64				install
+libgraphite2-3:amd64				install
+libgs-common					install
+libgs10:amd64					install
+libgs10-common					install
+libgsf-1-114:amd64				install
+libgsf-1-common					install
+libgsound0t64:amd64				install
+libgssapi-krb5-2:amd64				install
+libgssdp-1.6-0:amd64				install
+libgstreamer-gl1.0-0:amd64			install
+libgstreamer-plugins-base1.0-0:amd64		install
+libgstreamer-plugins-good1.0-0:amd64		install
+libgstreamer1.0-0:amd64				install
+libgtk-3-0t64:amd64				install
+libgtk-3-bin					install
+libgtk-3-common					install
+libgtk-4-1:amd64				install
+libgtk-4-bin					install
+libgtk-4-common					install
+libgtk-4-media-gstreamer			install
+libgtk2.0-0t64:amd64				install
+libgtk2.0-bin					install
+libgtk2.0-common				install
+libgtk3-perl					install
+libgtkmm-4.0-0:amd64				install
+libgtksourceview-5-0:amd64			install
+libgtksourceview-5-common			install
+libgtop-2.0-11:amd64				install
+libgtop2-common					install
+libgudev-1.0-0:amd64				install
+libgupnp-1.6-0:amd64				install
+libgupnp-av-1.0-3:amd64				install
+libgupnp-dlna-2.0-4:amd64			install
+libgusb2:amd64					install
+libgweather-4-0t64:amd64			install
+libgweather-4-common				install
+libgxps2t64:amd64				install
+libhandy-1-0:amd64				install
+libharfbuzz-gobject0:amd64			install
+libharfbuzz-icu0:amd64				install
+libharfbuzz-subset0:amd64			install
+libharfbuzz0b:amd64				install
+libheif-plugin-aomdec:amd64			install
+libheif-plugin-aomenc:amd64			install
+libheif-plugin-libde265:amd64			install
+libheif1:amd64					install
+libhogweed6t64:amd64				install
+libhpmud0:amd64					install
+libhtml-form-perl				install
+libhtml-format-perl				install
+libhtml-parser-perl:amd64			install
+libhtml-tagset-perl				install
+libhtml-tree-perl				install
+libhttp-cookies-perl				install
+libhttp-daemon-perl				install
+libhttp-date-perl				install
+libhttp-message-perl				install
+libhttp-negotiate-perl				install
+libhunspell-1.7-0:amd64				install
+libhwy1t64:amd64				install
+libhyphen0:amd64				install
+libibus-1.0-5:amd64				install
+libibverbs1:amd64				install
+libical3t64:amd64				install
+libice6:amd64					install
+libicu76:amd64					install
+libidn12:amd64					install
+libidn2-0:amd64					install
+libiec61883-0:amd64				install
+libieee1284-3t64:amd64				install
+libijs-0.35:amd64				install
+libimagequant0:amd64				install
+libimobiledevice-1.0-6:amd64			install
+libimobiledevice-glue-1.0-0			install
+libini-config5t64:amd64				install
+libinih1:amd64					install
+libinireader0:amd64				install
+libinput-bin					install
+libinput10:amd64				install
+libio-html-perl					install
+libio-socket-ssl-perl				install
+libio-stringy-perl				install
+libip4tc2:amd64					install
+libip6tc2:amd64					install
+libipa-hbac0t64					install
+libipc-system-simple-perl			install
+libipt2						install
+libisl23:amd64					install
+libjansson4:amd64				install
+libjavascriptcoregtk-4.1-0:amd64		install
+libjavascriptcoregtk-6.0-1:amd64		install
+libjbig0:amd64					install
+libjbig2dec0:amd64				install
+libjcat1:amd64					install
+libjemalloc2:amd64				install
+libjpeg-turbo8:amd64				install
+libjpeg8:amd64					install
+libjq1:amd64					install
+libjson-c5:amd64				install
+libjson-glib-1.0-0:amd64			install
+libjson-glib-1.0-common				install
+libjxl-gdk-pixbuf:amd64				install
+libjxl0.11:amd64				install
+libk5crypto3:amd64				install
+libkeyutils1:amd64				install
+libklibc:amd64					install
+libkmod2:amd64					install
+libkrb5-3:amd64					install
+libkrb5support0:amd64				install
+libksba8:amd64					install
+liblc3-1:amd64					install
+liblcms2-2:amd64				install
+liblcms2-utils					install
+libldacbt-abr2:amd64				install
+libldacbt-enc2:amd64				install
+libldap-common					install
+libldap2:amd64					install
+libldb2:amd64					install
+liblerc4:amd64					install
+libllvm18:amd64					install
+libllvm19:amd64					install
+liblmdb0:amd64					install
+liblocale-gettext-perl				install
+liblouis-data					install
+liblouis20:amd64				install
+liblouisutdml-bin				install
+liblouisutdml-data				install
+liblouisutdml9t64:amd64				install
+liblsof0					install
+libltdl7:amd64					install
+liblua5.4-0:amd64				install
+liblwp-mediatypes-perl				install
+liblwp-protocol-https-perl			install
+liblz4-1:amd64					install
+liblzma5:amd64					install
+liblzo2-2:amd64					install
+libm17n-0:amd64					install
+libmagic-mgc					install
+libmagic1t64:amd64				install
+libmailtools-perl				install
+libmanette-0.2-0:amd64				install
+libmarisa0:amd64				install
+libmaxminddb0:amd64				install
+libmbim-glib4:amd64				install
+libmbim-proxy					install
+libmbim-utils					install
+libmd0:amd64					install
+libmediaart-2.0-0:amd64				install
+libmm-glib0:amd64				install
+libmnl0:amd64					install
+libmount1:amd64					install
+libmozjs-128-0:amd64				install
+libmp3lame0:amd64				install
+libmpc3:amd64					install
+libmpfr6:amd64					install
+libmpg123-0t64:amd64				install
+libmsgraph-1-1:amd64				install
+libmtdev1t64:amd64				install
+libmtp-common					install
+libmtp-runtime					install
+libmtp9t64:amd64				install
+libmutter-16-0:amd64				install
+libnautilus-extension4:amd64			install
+libncurses6:amd64				install
+libncursesw6:amd64				install
+libndp0:amd64					install
+libnet-dbus-perl				install
+libnet-http-perl				install
+libnet-smtp-ssl-perl				install
+libnet-ssleay-perl:amd64			install
+libnetfilter-conntrack3:amd64			install
+libnetplan1:amd64				install
+libnettle8t64:amd64				install
+libnewt0.52:amd64				install
+libnfnetlink0:amd64				install
+libnfs14:amd64					install
+libnfsidmap1:amd64				install
+libnftables1:amd64				install
+libnftnl11:amd64				install
+libnghttp2-14:amd64				install
+libnl-3-200:amd64				install
+libnl-genl-3-200:amd64				install
+libnl-route-3-200:amd64				install
+libnm0:amd64					install
+libnma-common					install
+libnma-gtk4-0:amd64				install
+libnma0:amd64					install
+libnotify-bin					install
+libnotify4:amd64				install
+libnpth0t64:amd64				install
+libnsl2:amd64					install
+libnspr4:amd64					install
+libnss-mdns:amd64				install
+libnss-sss:amd64				install
+libnss-systemd:amd64				install
+libnss3:amd64					install
+libntfs-3g89t64:amd64				install
+libnuma1:amd64					install
+libnvme1t64					install
+libogg0:amd64					install
+libonig5:amd64					install
+libopencc-data					install
+libopencc1.1					install
+libopengl0:amd64				install
+libopenjp2-7:amd64				install
+libopus0:amd64					install
+liborc-0.4-0t64:amd64				install
+libotf1:amd64					install
+libp11-kit0:amd64				install
+libpackagekit-glib2-18:amd64			install
+libpam-cap:amd64				install
+libpam-fprintd:amd64				install
+libpam-gnome-keyring:amd64			install
+libpam-modules:amd64				install
+libpam-modules-bin				install
+libpam-pwquality:amd64				install
+libpam-runtime					install
+libpam-sss:amd64				install
+libpam-systemd:amd64				install
+libpam0g:amd64					install
+libpanel-1-1:amd64				install
+libpanel-common					install
+libpango-1.0-0:amd64				install
+libpangocairo-1.0-0:amd64			install
+libpangoft2-1.0-0:amd64				install
+libpangomm-2.48-1t64:amd64			install
+libpangoxft-1.0-0:amd64				install
+libpaper-utils					install
+libpaper2:amd64					install
+libparted2t64:amd64				install
+libpath-utils1t64:amd64				install
+libpcap0.8t64:amd64				install
+libpcaudio0:amd64				install
+libpci3:amd64					install
+libpciaccess0:amd64				install
+libpcre2-32-0:amd64				install
+libpcre2-8-0:amd64				install
+libpcsclite1:amd64				install
+libpeas-1.0-0:amd64				install
+libpeas-common					install
+libperl5.40:amd64				install
+libphonenumber8:amd64				install
+libpinyin-data:amd64				install
+libpinyin15:amd64				install
+libpipeline1:amd64				install
+libpipewire-0.3-0t64:amd64			install
+libpipewire-0.3-common				install
+libpipewire-0.3-modules:amd64			install
+libpixman-1-0:amd64				install
+libpkcs11-helper1t64:amd64			install
+libplist-2.0-4:amd64				install
+libplymouth5:amd64				install
+libpng16-16t64:amd64				install
+libpolkit-agent-1-0:amd64			install
+libpolkit-gobject-1-0:amd64			install
+libpoppler-cpp2:amd64				install
+libpoppler-glib8t64:amd64			install
+libpoppler147:amd64				install
+libpopt0:amd64					install
+libportal-gtk4-1:amd64				install
+libportal1:amd64				install
+libppd2:amd64					install
+libppd2-common					install
+libppsdocument-4.0-5:amd64			install
+libppsview-4.0-4:amd64				install
+libproc2-0:amd64				install
+libprotobuf-c1:amd64				install
+libprotobuf32t64:amd64				install
+libproxy1-plugin-gsettings:amd64		install
+libproxy1-plugin-networkmanager:amd64		install
+libproxy1v5:amd64				install
+libpsl5t64:amd64				install
+libpulse-mainloop-glib0:amd64			install
+libpulse0:amd64					install
+libpwquality-common				install
+libpwquality1:amd64				install
+libpython3-stdlib:amd64				install
+libpython3.13:amd64				install
+libpython3.13-minimal:amd64			install
+libpython3.13-stdlib:amd64			install
+libqmi-glib5:amd64				install
+libqmi-proxy					install
+libqmi-utils					install
+libqpdf30:amd64					install
+libqrtr-glib0:amd64				install
+libraqm0:amd64					install
+libraw1394-11:amd64				install
+libreadline8t64:amd64				install
+libref-array1t64:amd64				install
+librest-1.0-0:amd64				install
+libroc0.4:amd64					install
+librsvg2-2:amd64				install
+librsvg2-common:amd64				install
+librtmp1:amd64					install
+librygel-core-2.8-0:amd64			install
+librygel-db-2.8-0:amd64				install
+librygel-renderer-2.8-0:amd64			install
+librygel-server-2.8-0:amd64			install
+libsamplerate0:amd64				install
+libsane-common					install
+libsane-hpaio:amd64				install
+libsane1:amd64					install
+libsasl2-2:amd64				install
+libsasl2-modules:amd64				install
+libsasl2-modules-db:amd64			install
+libsasl2-modules-gssapi-mit:amd64		install
+libsbc1:amd64					install
+libseccomp2:amd64				install
+libsecret-1-0:amd64				install
+libsecret-common				install
+libselinux1:amd64				install
+libsemanage-common				install
+libsemanage2:amd64				install
+libsensors-config				install
+libsensors5:amd64				install
+libsepol2:amd64					install
+libsframe1:amd64				install
+libsharpyuv0:amd64				install
+libshout3:amd64					install
+libsigc++-3.0-0:amd64				install
+libslang2:amd64					install
+libsm6:amd64					install
+libsmartcols1:amd64				install
+libsmbclient0:amd64				install
+libsnapd-glib-2-1:amd64				install
+libsnappy1v5:amd64				install
+libsndfile1:amd64				install
+libsnmp-base					install
+libsnmp40t64:amd64				install
+libsodium23:amd64				install
+libsonic0:amd64					install
+libsoup-2.4-1:amd64				install
+libsoup-3.0-0:amd64				install
+libsoup-3.0-common				install
+libsoup2.4-common				install
+libsource-highlight-common			install
+libsource-highlight4t64:amd64			install
+libspa-0.2-bluetooth:amd64			install
+libspa-0.2-modules:amd64			install
+libspeechd-module0:amd64			install
+libspeechd2:amd64				install
+libspeex1:amd64					install
+libspeexdsp1:amd64				install
+libspelling-1-2:amd64				install
+libspelling-common				install
+libsqlite3-0:amd64				install
+libss2:amd64					install
+libssh2-1t64:amd64				install
+libssl3t64:amd64				install
+libsss-certmap0					install
+libsss-idmap0					install
+libsss-nss-idmap0				install
+libstartup-notification0:amd64			install
+libstdc++6:amd64				install
+libstemmer0d:amd64				install
+libsysmetrics1:amd64				install
+libsysprof-6-6:amd64				install
+libsysprof-6-modules:amd64			install
+libsystemd-shared:amd64				install
+libsystemd0:amd64				install
+libtag2:amd64					install
+libtalloc2:amd64				install
+libtasn1-6:amd64				install
+libtcl8.6:amd64					install
+libtdb1:amd64					install
+libteamdctl0:amd64				install
+libtevent0t64:amd64				install
+libtext-charwidth-perl:amd64			install
+libtext-iconv-perl:amd64			install
+libtext-wrapi18n-perl				install
+libthai-data					install
+libthai0:amd64					install
+libtheora0:amd64				install
+libtheoradec1:amd64				install
+libtheoraenc1:amd64				install
+libtie-ixhash-perl				install
+libtiff6:amd64					install
+libtimedate-perl				install
+libtinfo6:amd64					install
+libtinysparql-3.0-0:amd64			install
+libtirpc-common					install
+libtirpc3t64:amd64				install
+libtotem-plparser-common			install
+libtotem-plparser18:amd64			install
+libtraceevent1:amd64				install
+libtraceevent1-plugin:amd64			install
+libtracefs1:amd64				install
+libtry-tiny-perl				install
+libtss2-esys-3.0.2-0t64:amd64			install
+libtss2-mu-4.0.1-0t64:amd64			install
+libtss2-rc0t64:amd64				install
+libtss2-sys1t64:amd64				install
+libtss2-tcti-cmd0t64:amd64			install
+libtss2-tcti-device0t64:amd64			install
+libtss2-tcti-libtpms0t64:amd64			install
+libtss2-tcti-mssim0t64:amd64			install
+libtss2-tcti-spi-helper0t64:amd64		install
+libtss2-tcti-swtpm0t64:amd64			install
+libtss2-tctildr0t64:amd64			install
+libtwolame0:amd64				install
+libu2f-udev					install
+libuchardet0:amd64				install
+libudev1:amd64					install
+libudisks2-0:amd64				install
+libunistring5:amd64				install
+libunity-protocol-private0:amd64		install
+libunity-scopes-json-def-desktop		install
+libunity9					install
+libunwind8:amd64				install
+libupower-glib3:amd64				install
+liburcu8t64:amd64				install
+liburi-perl					install
+liburing2:amd64					install
+libusb-1.0-0:amd64				install
+libusbmuxd-2.0-7:amd64				install
+libuuid1:amd64					install
+libuv1t64:amd64					install
+libv4l-0t64:amd64				install
+libv4lconvert0t64:amd64				install
+libva-drm2:amd64				install
+libva2:amd64					install
+libvisual-0.4-0:amd64				install
+libvolume-key1:amd64				install
+libvorbis0a:amd64				install
+libvorbisenc2:amd64				install
+libvorbisfile3:amd64				install
+libvpx9:amd64					install
+libvte-2.91-0:amd64				install
+libvte-2.91-common				install
+libvulkan1:amd64				install
+libwacom-common					install
+libwacom9:amd64					install
+libwavpack1:amd64				install
+libwayland-client0:amd64			install
+libwayland-cursor0:amd64			install
+libwayland-egl1:amd64				install
+libwayland-server0:amd64			install
+libwbclient0:amd64				install
+libwebkit2gtk-4.1-0:amd64			install
+libwebkitgtk-6.0-4:amd64			install
+libwebp7:amd64					install
+libwebpdemux2:amd64				install
+libwebpmux3:amd64				install
+libwebrtc-audio-processing-1-3:amd64		install
+libwhoopsie-preferences0			install
+libwhoopsie0:amd64				install
+libwinpr3-3:amd64				install
+libwireplumber-0.5-0:amd64			install
+libwmf-0.2-7:amd64				install
+libwmf-0.2-7-gtk:amd64				install
+libwmf0.2-7-gtk:amd64				install
+libwmflite-0.2-7:amd64				install
+libwnck-3-0:amd64				install
+libwnck-3-common				install
+libwoff1:amd64					install
+libwrap0:amd64					install
+libwww-perl					install
+libwww-robotrules-perl				install
+libx11-6:amd64					install
+libx11-data					install
+libx11-protocol-perl				install
+libx11-xcb1:amd64				install
+libxatracker2:amd64				install
+libxau6:amd64					install
+libxaw7:amd64					install
+libxcb-damage0:amd64				install
+libxcb-dri2-0:amd64				install
+libxcb-dri3-0:amd64				install
+libxcb-glx0:amd64				install
+libxcb-icccm4:amd64				install
+libxcb-image0:amd64				install
+libxcb-keysyms1:amd64				install
+libxcb-present0:amd64				install
+libxcb-randr0:amd64				install
+libxcb-render-util0:amd64			install
+libxcb-render0:amd64				install
+libxcb-res0:amd64				install
+libxcb-shape0:amd64				install
+libxcb-shm0:amd64				install
+libxcb-sync1:amd64				install
+libxcb-util1:amd64				install
+libxcb-xfixes0:amd64				install
+libxcb-xkb1:amd64				install
+libxcb-xv0:amd64				install
+libxcb1:amd64					install
+libxcomposite1:amd64				install
+libxcursor1:amd64				install
+libxcvt0:amd64					install
+libxdamage1:amd64				install
+libxdmcp6:amd64					install
+libxext6:amd64					install
+libxfixes3:amd64				install
+libxfont2:amd64					install
+libxft2:amd64					install
+libxi6:amd64					install
+libxinerama1:amd64				install
+libxkbcommon-x11-0:amd64			install
+libxkbcommon0:amd64				install
+libxkbfile1:amd64				install
+libxkbregistry0:amd64				install
+libxml-parser-perl				install
+libxml-twig-perl				install
+libxml-xpathengine-perl				install
+libxml2:amd64					install
+libxmlb2:amd64					install
+libxmu6:amd64					install
+libxmuu1:amd64					install
+libxpm4:amd64					install
+libxrandr2:amd64				install
+libxrender1:amd64				install
+libxres1:amd64					install
+libxshmfence1:amd64				install
+libxslt1.1:amd64				install
+libxss1:amd64					install
+libxt6t64:amd64					install
+libxtables12:amd64				install
+libxtst6:amd64					install
+libxv1:amd64					install
+libxvmc1:amd64					install
+libxxf86dga1:amd64				install
+libxxf86vm1:amd64				install
+libxxhash0:amd64				install
+libyaml-0-2:amd64				install
+libyelp0:amd64					install
+libzstd1:amd64					install
+linux-base					install
+linux-firmware					install
+linux-generic-hwe-24.04				install
+linux-headers-6.14.0-15				install
+linux-headers-6.14.0-15-generic			install
+linux-headers-6.14.0-33				install
+linux-headers-6.14.0-33-generic			install
+linux-headers-generic-hwe-24.04			install
+linux-image-6.14.0-33-generic			install
+linux-image-generic-hwe-24.04			install
+linux-libc-dev:amd64				install
+linux-modules-6.14.0-15-generic			install
+linux-modules-6.14.0-33-generic			install
+linux-modules-extra-6.14.0-15-generic		install
+linux-modules-extra-6.14.0-33-generic		install
+linux-perf					install
+linux-sound-base				install
+linux-sysctl-defaults				install
+linux-tools-6.14.0-15				install
+linux-tools-6.14.0-15-generic			install
+linux-tools-6.14.0-33				install
+linux-tools-6.14.0-33-generic			install
+linux-tools-common				install
+locales						install
+login						install
+login.defs					install
+logrotate					install
+logsave						install
+lsb-release					install
+lshw						install
+lsof						install
+luit						install
+m17n-db						install
+makedumpfile					install
+man-db						install
+manpages					install
+manpages-dev					install
+mawk						install
+media-types					install
+memtest86+					install
+mesa-libgallium:amd64				install
+mesa-vulkan-drivers:amd64			install
+mobile-broadband-provider-info			install
+modemmanager					install
+mount						install
+mousetweaks					install
+mscompress					install
+mtr-tiny					install
+mutter-common					install
+mutter-common-bin				install
+nano						install
+nautilus					install
+nautilus-data					install
+nautilus-extension-gnome-terminal:amd64		install
+nautilus-sendto					install
+ncurses-base					install
+ncurses-bin					install
+netbase						install
+netcat-openbsd					install
+netplan-generator				install
+netplan.io					install
+network-manager					install
+network-manager-config-connectivity-ubuntu	install
+network-manager-openvpn				install
+network-manager-openvpn-gnome			install
+network-manager-pptp				install
+network-manager-pptp-gnome			install
+networkd-dispatcher				install
+nftables					install
+nm-connection-editor				install
+ntfs-3g						install
+numactl						install
+openprinting-ppds				install
+openssh-client					install
+openssl						install
+openssl-provider-legacy				install
+openvpn						install
+orca						install
+os-prober					install
+p11-kit						install
+p11-kit-modules:amd64				install
+packagekit					install
+packagekit-tools				install
+papers						install
+papers-common					install
+parted						install
+passwd						install
+patch						install
+pci.ids						install
+pciutils					install
+pcmciautils					install
+perl						install
+perl-base					install
+perl-modules-5.40				install
+perl-openssl-defaults:amd64			install
+pinentry-curses					install
+pinentry-gnome3					install
+pipewire:amd64					install
+pipewire-alsa:amd64				install
+pipewire-audio					install
+pipewire-bin					install
+pipewire-pulse					install
+pkexec						install
+plymouth					install
+plymouth-label					install
+plymouth-theme-spinner				install
+plymouth-theme-ubuntu-text			install
+pnp.ids						install
+policykit-desktop-privileges			install
+polkitd						install
+poppler-data					install
+poppler-utils					install
+power-profiles-daemon				install
+powermgmt-base					install
+ppp						install
+pptp-linux					install
+printer-driver-brlaser				install
+printer-driver-c2esp				install
+printer-driver-foo2zjs				install
+printer-driver-foo2zjs-common			install
+printer-driver-hpcups				install
+printer-driver-m2300w				install
+printer-driver-min12xxw				install
+printer-driver-pnm2ppa				install
+printer-driver-postscript-hp			install
+printer-driver-ptouch				install
+printer-driver-pxljr				install
+printer-driver-sag-gdi				install
+printer-driver-splix				install
+procps						install
+psmisc						install
+publicsuffix					install
+python-apt-common				install
+python-babel-localedata				install
+python3						install
+python3-apport					install
+python3-apt					install
+python3-aptdaemon				install
+python3-aptdaemon.gtk3widgets			install
+python3-attr					install
+python3-autocommand				install
+python3-babel					install
+python3-bcrypt					install
+python3-blinker					install
+python3-bpfcc					install
+python3-brlapi:amd64				install
+python3-cairo					install
+python3-certifi					install
+python3-cffi-backend:amd64			install
+python3-chardet					install
+python3-click					install
+python3-commandnotfound				install
+python3-configobj				install
+python3-cryptography				install
+python3-cups:amd64				install
+python3-cupshelpers				install
+python3-dateutil				install
+python3-dbus					install
+python3-debconf					install
+python3-debian					install
+python3-defer					install
+python3-distro					install
+python3-distro-info				install
+python3-distupgrade				install
+python3-gdbm:amd64				install
+python3-gi					install
+python3-httplib2				install
+python3-ibus-1.0				install
+python3-idna					install
+python3-inflect					install
+python3-jaraco.context				install
+python3-jaraco.functools			install
+python3-jinja2					install
+python3-json-pointer				install
+python3-jsonpatch				install
+python3-jsonschema				install
+python3-jsonschema-specifications		install
+python3-jwt					install
+python3-launchpadlib				install
+python3-lazr.restfulclient			install
+python3-lazr.uri				install
+python3-louis					install
+python3-markdown-it				install
+python3-markupsafe				install
+python3-mdurl					install
+python3-minimal					install
+python3-more-itertools				install
+python3-netaddr					install
+python3-netifaces:amd64				install
+python3-netplan					install
+python3-oauthlib				install
+python3-olefile					install
+python3-passlib					install
+python3-pexpect					install
+python3-pil:amd64				install
+python3-pkg-resources				install
+python3-problem-report				install
+python3-ptyprocess				install
+python3-pygments				install
+python3-pyparsing				install
+python3-referencing				install
+python3-requests				install
+python3-rich					install
+python3-rpds-py					install
+python3-serial					install
+python3-software-properties			install
+python3-speechd					install
+python3-sss					install
+python3-systemd					install
+python3-typeguard				install
+python3-typing-extensions			install
+python3-update-manager				install
+python3-urllib3					install
+python3-wadllib					install
+python3-xdg					install
+python3-xkit					install
+python3-yaml					install
+python3.13					install
+python3.13-gdbm					install
+python3.13-minimal				install
+readline-common					install
+rfkill						install
+rpcsvc-proto					install
+rsync						install
+rsyslog						install
+rtkit						install
+rygel						install
+samba-libs:amd64				install
+sane-airscan					install
+sane-utils					install
+sbsigntool					install
+seahorse					install
+secureboot-db					install
+sed						install
+sensible-utils					install
+session-migration				install
+sgml-base					install
+sgml-data					install
+shared-mime-info				install
+snapd						install
+software-properties-common			install
+software-properties-gtk				install
+sound-icons					install
+sound-theme-freedesktop				install
+speech-dispatcher				install
+speech-dispatcher-audio-plugins:amd64		install
+speech-dispatcher-espeak-ng			install
+spice-vdagent					install
+squashfs-tools					install
+ssl-cert					install
+sssd						install
+sssd-ad						install
+sssd-ad-common					install
+sssd-common					install
+sssd-ipa					install
+sssd-krb5					install
+sssd-krb5-common				install
+sssd-ldap					install
+sssd-proxy					install
+strace						install
+sudo						install
+switcheroo-control				install
+sysprof						install
+sysstat						install
+system-config-printer-common			install
+system-config-printer-udev			install
+systemd						install
+systemd-cryptsetup				install
+systemd-hwe-hwdb				install
+systemd-oomd					install
+systemd-resolved				install
+systemd-sysv					install
+systemd-timesyncd				install
+sysvinit-utils					install
+tar						install
+tcl						install
+tcl8.6						install
+tcpdump						install
+tecla						install
+telnet						install
+thermald					install
+time						install
+tinysparql					install
+tnftp						install
+tpm-udev					install
+trace-cmd					install
+tracker-extract					install
+tzdata						install
+ubuntu-advantage-desktop-daemon			install
+ubuntu-desktop-minimal				install
+ubuntu-docs					install
+ubuntu-drivers-common				install
+ubuntu-kernel-accessories			install
+ubuntu-keyring					install
+ubuntu-minimal					install
+ubuntu-pro-client				install
+ubuntu-pro-client-l10n				install
+ubuntu-release-upgrader-core			install
+ubuntu-release-upgrader-gtk			install
+ubuntu-report					install
+ubuntu-session					install
+ubuntu-session-xsession				install
+ubuntu-settings					install
+ubuntu-standard					install
+ubuntu-wallpapers				install
+ubuntu-wallpapers-plucky			install
+ucf						install
+udev						install
+udisks2						install
+ufw						install
+unattended-upgrades				install
+unzip						install
+update-inetd					install
+update-manager					install
+update-manager-core				install
+update-notifier					install
+update-notifier-common				install
+upower						install
+usb-modeswitch					install
+usb-modeswitch-data				install
+usb.ids						install
+usbmuxd						install
+usbutils					install
+util-linux					install
+uuid-runtime					install
+vim						install
+vim-common					install
+vim-runtime					install
+vim-tiny					install
+wamerican					install
+wbritish					install
+webp-pixbuf-loader:amd64			install
+wget						install
+whiptail					install
+whoopsie					install
+whoopsie-preferences				install
+wireless-regdb					install
+wireplumber					install
+wpasupplicant					install
+wsdd						install
+x11-apps					install
+x11-common					install
+x11-session-utils				install
+x11-utils					install
+x11-xkb-utils					install
+x11-xserver-utils				install
+xauth						install
+xbitmaps					install
+xbrlapi						install
+xcursor-themes					install
+xcvt						install
+xdg-dbus-proxy					install
+xdg-desktop-portal				install
+xdg-desktop-portal-gnome			install
+xdg-desktop-portal-gtk				install
+xdg-terminal-exec				install
+xdg-user-dirs					install
+xdg-user-dirs-gtk				install
+xdg-utils					install
+xfonts-base					install
+xfonts-encodings				install
+xfonts-scalable					install
+xfonts-utils					install
+xinit						install
+xinput						install
+xkb-data					install
+xml-core					install
+xorg						install
+xorg-docs-core					install
+xserver-common					install
+xserver-xephyr					install
+xserver-xorg					install
+xserver-xorg-core				install
+xserver-xorg-input-all				install
+xserver-xorg-input-libinput			install
+xserver-xorg-input-wacom			install
+xserver-xorg-legacy				install
+xserver-xorg-video-all				install
+xserver-xorg-video-amdgpu			install
+xserver-xorg-video-ati				install
+xserver-xorg-video-fbdev			install
+xserver-xorg-video-intel			install
+xserver-xorg-video-nouveau			install
+xserver-xorg-video-qxl				install
+xserver-xorg-video-radeon			install
+xserver-xorg-video-vesa				install
+xserver-xorg-video-vmware			install
+xwayland					install
+xxd						install
+xz-utils					install
+yaru-theme-gnome-shell				install
+yaru-theme-gtk					install
+yaru-theme-icon					install
+yaru-theme-sound				install
+yelp						install
+yelp-xsl					install
+zenity						install
+zenity-common					install
+zip						install
+zlib1g:amd64					install
+zstd						install
+
+----- apt list --installed -----
+Listing...
+accountsservice/plucky,now 23.13.9-7ubuntu1 amd64 [installed,automatic]
+acl/plucky,now 2.3.2-2 amd64 [installed,automatic]
+adduser/plucky,now 3.137ubuntu2 all [installed,automatic]
+adwaita-icon-theme/plucky,now 48.0-1 all [installed,automatic]
+alsa-base/plucky,now 1.0.25+dfsg-0ubuntu8 all [installed,automatic]
+alsa-topology-conf/plucky,now 1.2.5.1-3 all [installed,automatic]
+alsa-ucm-conf/plucky,now 1.2.12-1ubuntu1 all [installed,upgradable to: 1.2.12-1ubuntu1.3]
+alsa-utils/plucky,now 1.2.13-1ubuntu1 amd64 [installed,automatic]
+amd64-microcode/plucky-updates,plucky-security,now 3.20250311.1ubuntu0.25.04.1 amd64 [installed,automatic]
+anacron/plucky,now 2.3-42ubuntu1 amd64 [installed,automatic]
+apg/plucky,now 2.2.3.dfsg.1-7 amd64 [installed,automatic]
+apparmor/plucky,now 4.1.0~beta5-0ubuntu14 amd64 [installed,upgradable to: 4.1.0~beta5-0ubuntu14.2]
+apport-core-dump-handler/plucky-updates,plucky-security,now 2.32.0-0ubuntu5.3 all [installed,automatic]
+apport-gtk/plucky-updates,plucky-security,now 2.32.0-0ubuntu5.3 all [installed,automatic]
+apport-symptoms/plucky,now 0.25 all [installed,automatic]
+apport/plucky-updates,plucky-security,now 2.32.0-0ubuntu5.3 all [installed,automatic]
+appstream/plucky,now 1.0.4-1 amd64 [installed,automatic]
+apt-config-icons-hidpi/plucky,now 1.0.4-1 all [installed,automatic]
+apt-config-icons/plucky,now 1.0.4-1 all [installed,automatic]
+apt-utils/plucky,now 3.0.0 amd64 [installed,automatic]
+apt/plucky,now 3.0.0 amd64 [installed,automatic]
+aptdaemon-data/plucky,now 2.0.2 all [installed,automatic]
+aptdaemon/plucky,now 2.0.2 all [installed,automatic]
+aspell-en/plucky,now 2020.12.07-0-1 all [installed,automatic]
+aspell/plucky,now 0.60.8.1-4 amd64 [installed,automatic]
+at-spi2-common/plucky,now 2.56.1-1 all [installed,automatic]
+at-spi2-core/plucky,now 2.56.1-1 amd64 [installed,automatic]
+avahi-daemon/plucky,now 0.8-16ubuntu2 amd64 [installed,automatic]
+baobab/plucky,now 48.0-1 amd64 [installed,automatic]
+base-files/plucky,now 13.6ubuntu2 amd64 [installed,automatic]
+base-passwd/plucky,now 3.6.6 amd64 [installed,automatic]
+bash-completion/plucky,now 1:2.16.0-7 all [installed,automatic]
+bash/plucky,now 5.2.37-1.1ubuntu1 amd64 [installed,automatic]
+bc/plucky,now 1.07.1-4 amd64 [installed,automatic]
+bind9-dnsutils/plucky-security,now 1:9.20.4-3ubuntu1.2 amd64 [installed,upgradable to: 1:9.20.11-0ubuntu0.1]
+bind9-host/plucky-security,now 1:9.20.4-3ubuntu1.2 amd64 [installed,upgradable to: 1:9.20.11-0ubuntu0.1]
+bind9-libs/plucky-security,now 1:9.20.4-3ubuntu1.2 amd64 [installed,upgradable to: 1:9.20.11-0ubuntu0.1]
+binutils-common/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+binutils-x86-64-linux-gnu/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+binutils/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+bluez-cups/plucky,now 5.79-2ubuntu1 amd64 [installed,upgradable to: 5.79-2ubuntu1.3]
+bluez-obexd/plucky,now 5.79-2ubuntu1 amd64 [installed,upgradable to: 5.79-2ubuntu1.3]
+bluez/plucky,now 5.79-2ubuntu1 amd64 [installed,upgradable to: 5.79-2ubuntu1.3]
+bolt/plucky,now 0.9.8-1 amd64 [installed,automatic]
+bpfcc-tools/plucky,now 0.30.0+ds-1ubuntu5 all [installed,automatic]
+bpftool/plucky-updates,plucky-security,now 7.6.0+6.14.0-33.33 amd64 [installed,automatic]
+bpftrace/plucky,now 0.21.2-2ubuntu3 amd64 [installed,automatic]
+brltty/plucky,now 6.7-1ubuntu3 amd64 [installed,automatic]
+bsdextrautils/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+bsdutils/plucky,now 1:2.40.2-14ubuntu1 amd64 [installed,upgradable to: 1:2.40.2-14ubuntu1.1]
+bubblewrap/plucky,now 0.11.0-2 amd64 [installed,automatic]
+busybox-initramfs/plucky,now 1:1.37.0-4ubuntu1 amd64 [installed,automatic]
+busybox-static/plucky,now 1:1.37.0-4ubuntu1 amd64 [installed,automatic]
+ca-certificates/plucky,now 20241223 all [installed,automatic]
+cloud-guest-utils/plucky,now 0.33-1 all [installed,automatic]
+cloud-init-base/plucky-security,now 25.1.4-0ubuntu0~25.04.1 all [installed,upgradable to: 25.2-0ubuntu1~25.04.1]
+cloud-init/plucky-security,now 25.1.4-0ubuntu0~25.04.1 all [installed,upgradable to: 25.2-0ubuntu1~25.04.1]
+colord-data/plucky,now 1.4.7-3 all [installed,automatic]
+colord/plucky,now 1.4.7-3 amd64 [installed,automatic]
+command-not-found/plucky,now 23.04.0 all [installed,automatic]
+console-setup-linux/plucky,now 1.226ubuntu3 all [installed,automatic]
+console-setup/plucky,now 1.226ubuntu3 all [installed,automatic]
+coreutils/plucky,now 9.5-1ubuntu1 amd64 [installed,upgradable to: 9.5-1ubuntu1.25.04.2]
+cpdb-backend-cups/plucky,now 2.0b7-0ubuntu1 amd64 [installed,automatic]
+cpio/plucky,now 2.15+dfsg-2 amd64 [installed,automatic]
+cpp-14-x86-64-linux-gnu/plucky,now 14.2.0-19ubuntu2 amd64 [installed,automatic]
+cpp-14/plucky,now 14.2.0-19ubuntu2 amd64 [installed,automatic]
+cpp-x86-64-linux-gnu/plucky,now 4:14.2.0-1ubuntu1 amd64 [installed,automatic]
+cpp/plucky,now 4:14.2.0-1ubuntu1 amd64 [installed,automatic]
+cracklib-runtime/plucky,now 2.9.6-5.2build1 amd64 [installed,automatic]
+crash/plucky,now 8.0.6-1ubuntu1 amd64 [installed,automatic]
+cron-daemon-common/plucky,now 3.0pl1-194ubuntu1 all [installed,automatic]
+cron/plucky,now 3.0pl1-194ubuntu1 amd64 [installed,automatic]
+cups-browsed/plucky,now 2.1.1-0ubuntu1 amd64 [installed,automatic]
+cups-bsd/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+cups-client/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+cups-common/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 all [installed,automatic]
+cups-core-drivers/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+cups-daemon/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+cups-filters-core-drivers/plucky,now 2.0.1-0ubuntu3 amd64 [installed,automatic]
+cups-filters/plucky,now 2.0.1-0ubuntu3 amd64 [installed,automatic]
+cups-ipp-utils/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+cups-pk-helper/plucky,now 0.2.6-2.1 amd64 [installed,automatic]
+cups-ppdc/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+cups-server-common/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 all [installed,automatic]
+cups/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+curl/plucky,now 8.12.1-3ubuntu1 amd64 [installed]
+dash/plucky,now 0.5.12-12ubuntu1 amd64 [installed]
+dbus-bin/plucky,now 1.16.2-2ubuntu1 amd64 [installed,automatic]
+dbus-daemon/plucky,now 1.16.2-2ubuntu1 amd64 [installed,automatic]
+dbus-session-bus-common/plucky,now 1.16.2-2ubuntu1 all [installed,automatic]
+dbus-system-bus-common/plucky,now 1.16.2-2ubuntu1 all [installed,automatic]
+dbus-user-session/plucky,now 1.16.2-2ubuntu1 amd64 [installed,automatic]
+dbus/plucky,now 1.16.2-2ubuntu1 amd64 [installed,automatic]
+dc/plucky,now 1.07.1-4 amd64 [installed,automatic]
+dconf-cli/plucky,now 0.40.0-5 amd64 [installed,upgradable to: 0.40.0-5ubuntu0.1]
+dconf-gsettings-backend/plucky,now 0.40.0-5 amd64 [installed,upgradable to: 0.40.0-5ubuntu0.1]
+dconf-service/plucky,now 0.40.0-5 amd64 [installed,upgradable to: 0.40.0-5ubuntu0.1]
+debconf-i18n/plucky,now 1.5.87ubuntu1 all [installed,automatic]
+debconf/plucky,now 1.5.87ubuntu1 all [installed,automatic]
+debianutils/plucky,now 5.21 amd64 [installed,automatic]
+desktop-file-utils/plucky,now 0.28-1 amd64 [installed,automatic]
+dhcpcd-base/plucky,now 1:10.1.0-8 amd64 [installed,automatic]
+dictionaries-common/plucky,now 1.30.10 all [installed,automatic]
+diffutils/plucky,now 1:3.10-3 amd64 [installed]
+dirmngr/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+distro-info-data/plucky,now 0.63 all [installed,upgradable to: 0.63ubuntu0.1]
+distro-info/plucky,now 1.13 amd64 [installed,automatic]
+dmidecode/plucky,now 3.6-2 amd64 [installed,automatic]
+dmsetup/plucky,now 2:1.02.201-1ubuntu1 amd64 [installed,automatic]
+dmz-cursor-theme/plucky,now 0.4.5.2 all [installed,automatic]
+dns-root-data/plucky,now 2024071801 all [installed,automatic]
+dnsmasq-base/plucky,now 2.91-1 amd64 [installed,automatic]
+docbook-xml/plucky,now 4.5-13 all [installed,automatic]
+dosfstools/plucky,now 4.2-1.2 amd64 [installed,automatic]
+dpkg/plucky-updates,plucky-security,now 1.22.18ubuntu2.2 amd64 [installed,automatic]
+dracut-install/plucky,now 106-2ubuntu5 amd64 [installed,automatic]
+e2fsprogs-l10n/plucky,now 1.47.2-1ubuntu1 all [installed,automatic]
+e2fsprogs/plucky,now 1.47.2-1ubuntu1 amd64 [installed,automatic]
+eatmydata/plucky,now 131-2 all [installed,automatic]
+ed/plucky,now 1.21-1 amd64 [installed,automatic]
+eject/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+emacsen-common/plucky,now 3.0.7 all [installed,automatic]
+enchant-2/plucky,now 2.8.2+dfsg1-3 amd64 [installed,automatic]
+eog/plucky,now 47.0-1ubuntu2 amd64 [installed,automatic]
+espeak-ng-data/plucky,now 1.52.0+dfsg-4 amd64 [installed,automatic]
+ethtool/plucky,now 1:6.11-1 amd64 [installed,automatic]
+evolution-data-server-common/plucky,now 3.56.0-1 all [installed,automatic]
+evolution-data-server/plucky,now 3.56.0-1 amd64 [installed,automatic]
+exfatprogs/plucky,now 1.2.8-1 amd64 [installed,automatic]
+fdisk/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+file/plucky,now 1:5.45-3build1 amd64 [installed,automatic]
+findutils/plucky,now 4.10.0-3 amd64 [installed]
+firefox/plucky,now 1:1snap1-0ubuntu7 amd64 [installed,automatic]
+firmware-sof-signed/plucky,now 2025.01-1 all [installed,upgradable to: 2025.01-1ubuntu1~25.04.3]
+fontconfig-config/plucky,now 2.15.0-2.2ubuntu1 amd64 [installed,automatic]
+fontconfig/plucky,now 2.15.0-2.2ubuntu1 amd64 [installed,automatic]
+fonts-dejavu-core/plucky,now 2.37-8 all [installed,automatic]
+fonts-dejavu-mono/plucky,now 2.37-8 all [installed,automatic]
+fonts-droid-fallback/plucky,now 1:8.1.0r7-1~1.gbp36536b all [installed,automatic]
+fonts-liberation-sans-narrow/plucky,now 1:1.07.6-4 all [installed,automatic]
+fonts-liberation/plucky,now 1:2.1.5-3 all [installed,automatic]
+fonts-noto-cjk/plucky,now 1:20240730+repack1-1 all [installed,automatic]
+fonts-noto-color-emoji/plucky,now 2.047-1 all [installed,automatic]
+fonts-noto-core/plucky,now 20201225-2 all [installed,automatic]
+fonts-noto-mono/plucky,now 20201225-2 all [installed,automatic]
+fonts-ubuntu/plucky,now 0.869+git20240321-0ubuntu1 all [installed,automatic]
+fonts-urw-base35/plucky,now 20200910-8 all [installed,automatic]
+foomatic-db-compressed-ppds/plucky,now 20250217-0ubuntu1 all [installed,automatic]
+fprintd/plucky,now 1.94.5-2 amd64 [installed,automatic]
+friendly-recovery/plucky,now 0.2.42 all [installed,automatic]
+ftp/plucky,now 20230507-2build3 all [installed,automatic]
+fuse3/plucky,now 3.14.0-10 amd64 [installed,automatic]
+fwupd-signed/plucky,now 1.55+1.7-1 amd64 [installed,automatic]
+fwupd/plucky,now 2.0.7-1 amd64 [installed,upgradable to: 2.0.13-1~25.04.1]
+gamemode-daemon/plucky,now 1.8.2-2 amd64 [installed,automatic]
+gamemode/plucky,now 1.8.2-2 amd64 [installed,automatic]
+gcc-14-base/plucky,now 14.2.0-19ubuntu2 amd64 [installed,automatic]
+gcc-15-base/plucky,now 15-20250404-0ubuntu1 amd64 [installed,automatic]
+gcr4/plucky,now 4.4.0.1-2 amd64 [installed,automatic]
+gcr/plucky,now 3.41.2-1build3 amd64 [installed,automatic]
+gdb/plucky,now 16.2-8ubuntu1 amd64 [installed,automatic]
+gdisk/plucky,now 1.0.10-2 amd64 [installed,automatic]
+gdm3/plucky,now 48.0-1ubuntu1 amd64 [installed,upgradable to: 48.0-1ubuntu1.1]
+geoclue-2.0/plucky,now 2.7.2-2ubuntu1 amd64 [installed,automatic]
+geocode-glib-common/plucky,now 3.26.3-6build3 all [installed,automatic]
+gettext-base/plucky,now 0.23.1-1 amd64 [installed,automatic]
+ghostscript/plucky-updates,plucky-security,now 10.05.0dfsg1-0ubuntu1.2 amd64 [installed,automatic]
+gir1.2-accountsservice-1.0/plucky,now 23.13.9-7ubuntu1 amd64 [installed,automatic]
+gir1.2-adw-1/plucky,now 1.7.0-1ubuntu1 amd64 [installed,upgradable to: 1.7.0-1ubuntu2]
+gir1.2-atk-1.0/plucky,now 2.56.1-1 amd64 [installed,automatic]
+gir1.2-atspi-2.0/plucky,now 2.56.1-1 amd64 [installed,automatic]
+gir1.2-freedesktop/plucky,now 1.84.0-1 amd64 [installed,automatic]
+gir1.2-gck-2/plucky,now 4.4.0.1-2 amd64 [installed,automatic]
+gir1.2-gcr-4/plucky,now 4.4.0.1-2 amd64 [installed,automatic]
+gir1.2-gdesktopenums-3.0/plucky,now 48.0-1ubuntu1 amd64 [installed,automatic]
+gir1.2-gdkpixbuf-2.0/plucky-updates,plucky-security,now 2.42.12+dfsg-2ubuntu0.1 amd64 [installed,automatic]
+gir1.2-gdm-1.0/plucky,now 48.0-1ubuntu1 amd64 [installed,upgradable to: 48.0-1ubuntu1.1]
+gir1.2-geoclue-2.0/plucky,now 2.7.2-2ubuntu1 amd64 [installed,automatic]
+gir1.2-girepository-2.0/plucky,now 1.84.0-1 amd64 [installed,automatic]
+gir1.2-glib-2.0/plucky-updates,plucky-security,now 2.84.1-1ubuntu0.1 amd64 [installed,automatic]
+gir1.2-gmenu-3.0/plucky,now 3.36.0-1.1ubuntu3 amd64 [installed,automatic]
+gir1.2-gnomeautoar-0.1/plucky,now 0.4.5-2 amd64 [installed,automatic]
+gir1.2-gnomebg-4.0/plucky,now 44.1-2 amd64 [installed,automatic]
+gir1.2-gnomebluetooth-3.0/plucky,now 47.1-1 amd64 [installed,automatic]
+gir1.2-gnomedesktop-3.0/plucky,now 44.1-2 amd64 [installed,automatic]
+gir1.2-gnomedesktop-4.0/plucky,now 44.1-2 amd64 [installed,automatic]
+gir1.2-graphene-1.0/plucky,now 1.10.8-5 amd64 [installed,automatic]
+gir1.2-gstreamer-1.0/plucky,now 1.26.0-3 amd64 [installed,automatic]
+gir1.2-gtk-3.0/plucky,now 3.24.49-2ubuntu1 amd64 [installed,automatic]
+gir1.2-gtk-4.0/plucky,now 4.18.4+ds-1 amd64 [installed,upgradable to: 4.18.5+ds-0ubuntu0.1]
+gir1.2-gweather-4.0/plucky,now 4.4.4-1 amd64 [installed,automatic]
+gir1.2-handy-1/plucky,now 1.8.3-2 amd64 [installed,automatic]
+gir1.2-harfbuzz-0.0/plucky,now 10.2.0-1 amd64 [installed,automatic]
+gir1.2-ibus-1.0/plucky,now 1.5.32~rc2-1 amd64 [installed,automatic]
+gir1.2-javascriptcoregtk-4.1/plucky-updates,plucky-security,now 2.48.7-0ubuntu0.25.04.2 amd64 [installed,automatic]
+gir1.2-mutter-16/plucky,now 48.1-1ubuntu3 amd64 [installed,upgradable to: 48.1-1ubuntu3.1]
+gir1.2-nm-1.0/plucky,now 1.52.0-1ubuntu1 amd64 [installed,automatic]
+gir1.2-nma4-1.0/plucky,now 1.10.6-5 amd64 [installed,automatic]
+gir1.2-notify-0.7/plucky,now 0.8.4-1 amd64 [installed,automatic]
+gir1.2-packagekitglib-1.0/plucky,now 1.3.0-3build1 amd64 [installed,automatic]
+gir1.2-pango-1.0/plucky,now 1.56.3-1 amd64 [installed,automatic]
+gir1.2-peas-1.0/plucky,now 1.36.0-3build5 amd64 [installed,automatic]
+gir1.2-polkit-1.0/plucky,now 126-2 amd64 [installed,automatic]
+gir1.2-rsvg-2.0/plucky,now 2.60.0+dfsg-1 amd64 [installed,automatic]
+gir1.2-secret-1/plucky,now 0.21.7-1 amd64 [installed,automatic]
+gir1.2-snapd-2/plucky,now 1.66-0ubuntu1 amd64 [installed,automatic]
+gir1.2-soup-3.0/plucky-updates,plucky-security,now 3.6.5-1ubuntu0.2 amd64 [installed,automatic]
+gir1.2-upowerglib-1.0/plucky,now 1.90.7-1build1 amd64 [installed,automatic]
+gir1.2-vte-2.91/plucky,now 0.80.0-1 amd64 [installed,automatic]
+gir1.2-webkit2-4.1/plucky-updates,plucky-security,now 2.48.7-0ubuntu0.25.04.2 amd64 [installed,automatic]
+gir1.2-wnck-3.0/plucky,now 43.2-1 amd64 [installed,automatic]
+git-man/plucky-updates,plucky-security,now 1:2.48.1-0ubuntu1.1 all [installed,automatic]
+git/plucky-updates,plucky-security,now 1:2.48.1-0ubuntu1.1 amd64 [installed]
+gjs/plucky,now 1.82.1-1 amd64 [installed,automatic]
+glib-networking-common/plucky,now 2.80.1-1 all [installed,automatic]
+glib-networking-services/plucky,now 2.80.1-1 amd64 [installed,automatic]
+glib-networking/plucky,now 2.80.1-1 amd64 [installed,automatic]
+gnome-accessibility-themes/plucky,now 3.28-4 all [installed,automatic]
+gnome-bluetooth-3-common/plucky,now 47.1-1 all [installed,automatic]
+gnome-bluetooth-sendto/plucky,now 47.1-1 amd64 [installed,automatic]
+gnome-calculator/plucky,now 1:48.0.2-1ubuntu2 amd64 [installed,automatic]
+gnome-characters/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-clocks/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-control-center-data/plucky,now 1:48.0-1ubuntu3 all [installed,upgradable to: 1:48.1-1ubuntu0.2]
+gnome-control-center-faces/plucky,now 1:48.0-1ubuntu3 all [installed,upgradable to: 1:48.1-1ubuntu0.2]
+gnome-control-center/plucky,now 1:48.0-1ubuntu3 amd64 [installed,upgradable to: 1:48.1-1ubuntu0.2]
+gnome-desktop3-data/plucky,now 44.1-2 all [installed,automatic]
+gnome-disk-utility/plucky,now 46.1-1ubuntu1 amd64 [installed,automatic]
+gnome-font-viewer/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-initial-setup/plucky,now 48.0-1ubuntu4 amd64 [installed,upgradable to: 48.0-1ubuntu4.2]
+gnome-keyring-pkcs11/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-keyring/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-logs/plucky,now 45.0-1build1 amd64 [installed,automatic]
+gnome-menus/plucky,now 3.36.0-1.1ubuntu3 amd64 [installed,automatic]
+gnome-online-accounts/plucky,now 3.54.1-1 amd64 [installed,automatic]
+gnome-power-manager/plucky,now 43.0-3 amd64 [installed,automatic]
+gnome-remote-desktop/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-session-bin/plucky,now 47.0.1-2ubuntu3 amd64 [installed,automatic]
+gnome-session-canberra/plucky,now 0.30-17ubuntu2 amd64 [installed,automatic]
+gnome-session-common/plucky,now 47.0.1-2ubuntu3 all [installed,automatic]
+gnome-settings-daemon-common/plucky,now 48.0-1ubuntu2 all [installed,automatic]
+gnome-settings-daemon/plucky,now 48.0-1ubuntu2 amd64 [installed,automatic]
+gnome-shell-common/plucky,now 48.0-1ubuntu1 all [installed,upgradable to: 48.0-1ubuntu1.2]
+gnome-shell-extension-appindicator/plucky,now 59-3 all [installed,automatic]
+gnome-shell-extension-desktop-icons-ng/plucky,now 48.0.0-3 all [installed,upgradable to: 48.0.0-3ubuntu0.2]
+gnome-shell-extension-ubuntu-dock/plucky,now 100ubuntu2 all [installed,automatic]
+gnome-shell-extension-ubuntu-tiling-assistant/plucky,now 51-1ubuntu1 all [installed,upgradable to: 51-1ubuntu1.1]
+gnome-shell/plucky,now 48.0-1ubuntu1 amd64 [installed,upgradable to: 48.0-1ubuntu1.2]
+gnome-startup-applications/plucky,now 47.0.1-2ubuntu3 amd64 [installed,automatic]
+gnome-system-monitor/plucky,now 48.0-1 amd64 [installed,automatic]
+gnome-terminal-data/plucky,now 3.56.0-1ubuntu1 all [installed,automatic]
+gnome-terminal/plucky,now 3.56.0-1ubuntu1 amd64 [installed,automatic]
+gnome-text-editor/plucky,now 48.2-1 amd64 [installed,automatic]
+gnome-themes-extra-data/plucky,now 3.28-4 all [installed,automatic]
+gnome-themes-extra/plucky,now 3.28-4 amd64 [installed,automatic]
+gnome-user-docs/plucky,now 47.5-1ubuntu1 all [installed,automatic]
+gnupg-l10n/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 all [installed,automatic]
+gnupg-utils/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+gnupg/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 all [installed,automatic]
+gpg-agent/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+gpg-wks-client/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+gpg/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+gpgconf/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+gpgsm/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+gpgv/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+grep/plucky,now 3.11-4build1 amd64 [installed]
+groff-base/plucky,now 1.23.0-7 amd64 [installed,automatic]
+grub-common/plucky,now 2.12-5ubuntu11 amd64 [installed,automatic]
+grub-gfxpayload-lists/plucky,now 0.7build2 amd64 [installed,automatic]
+grub-pc-bin/plucky,now 2.12-5ubuntu11 amd64 [installed,automatic]
+grub-pc/plucky,now 2.12-5ubuntu11 amd64 [installed,automatic]
+grub2-common/plucky,now 2.12-5ubuntu11 amd64 [installed,automatic]
+gsettings-desktop-schemas/plucky,now 48.0-1ubuntu1 all [installed,automatic]
+gsettings-ubuntu-schemas/plucky,now 0.0.7+21.10.20210712-0ubuntu3 all [installed,automatic]
+gstreamer1.0-alsa/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+gstreamer1.0-gl/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+gstreamer1.0-packagekit/plucky,now 1.3.0-3build1 amd64 [installed,automatic]
+gstreamer1.0-pipewire/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+gstreamer1.0-plugins-base-apps/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+gstreamer1.0-plugins-base/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+gstreamer1.0-plugins-good/plucky-updates,plucky-security,now 1.26.0-1ubuntu2.1 amd64 [installed,automatic]
+gstreamer1.0-tools/plucky,now 1.26.0-3 amd64 [installed,automatic]
+gstreamer1.0-x/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+gtk-update-icon-cache/plucky,now 4.18.4+ds-1 amd64 [installed,upgradable to: 4.18.5+ds-0ubuntu0.1]
+gtk2-engines-murrine/plucky,now 0.98.2-4 amd64 [installed,automatic]
+gtk2-engines-pixbuf/plucky,now 2.24.33-6ubuntu1 amd64 [installed,automatic]
+gvfs-backends/plucky,now 1.57.2-2ubuntu1 amd64 [installed,automatic]
+gvfs-common/plucky,now 1.57.2-2ubuntu1 all [installed,automatic]
+gvfs-daemons/plucky,now 1.57.2-2ubuntu1 amd64 [installed,automatic]
+gvfs-fuse/plucky,now 1.57.2-2ubuntu1 amd64 [installed,automatic]
+gvfs-libs/plucky,now 1.57.2-2ubuntu1 amd64 [installed,automatic]
+gvfs/plucky,now 1.57.2-2ubuntu1 amd64 [installed,automatic]
+gzip/plucky,now 1.13-1ubuntu3 amd64 [installed]
+hdparm/plucky,now 9.65+ds-1.1 amd64 [installed,automatic]
+heif-gdk-pixbuf/plucky,now 1.19.7-1 amd64 [installed,automatic]
+heif-thumbnailer/plucky,now 1.19.7-1 amd64 [installed,automatic]
+hicolor-icon-theme/plucky,now 0.18-2 all [installed,automatic]
+hostname/plucky,now 3.25 amd64 [installed]
+hplip-data/plucky,now 3.24.4+dfsg0-0ubuntu5 all [installed,automatic]
+hplip/plucky,now 3.24.4+dfsg0-0ubuntu5 amd64 [installed,automatic]
+htop/plucky,now 3.4.0-2 amd64 [installed]
+hunspell-en-us/plucky,now 1:2020.12.07-4 all [installed,automatic]
+hwdata/plucky,now 0.393-3 all [installed,automatic]
+ibus-data/plucky,now 1.5.32~rc2-1 all [installed,automatic]
+ibus-gtk3/plucky,now 1.5.32~rc2-1 amd64 [installed,automatic]
+ibus-gtk4/plucky,now 1.5.32~rc2-1 amd64 [installed,automatic]
+ibus-gtk/plucky,now 1.5.32~rc2-1 amd64 [installed,automatic]
+ibus-table-cangjie-big/plucky,now 1.8.12-2 all [installed]
+ibus-table-cangjie3/plucky,now 1.8.12-2 all [installed]
+ibus-table-cangjie5/plucky,now 1.8.12-2 all [installed]
+ibus-table/plucky,now 1.17.10-1 all [installed,automatic]
+ibus/plucky,now 1.5.32~rc2-1 amd64 [installed,automatic]
+ibverbs-providers/plucky,now 56.0-4ubuntu1 amd64 [installed,automatic]
+ieee-data/plucky,now 20240722 all [installed,automatic]
+iio-sensor-proxy/plucky,now 3.7-1 amd64 [installed,automatic]
+im-config/plucky,now 0.57-2 all [installed,automatic]
+inetutils-telnet/plucky,now 2:2.5-6ubuntu1 amd64 [installed,automatic]
+info/plucky,now 7.1.1-1 amd64 [installed,automatic]
+init-system-helpers/plucky,now 1.68 all [installed,automatic]
+init/plucky,now 1.68 amd64 [installed]
+initramfs-tools-bin/plucky,now 0.147ubuntu1 amd64 [installed,upgradable to: 0.147ubuntu1.1]
+initramfs-tools-core/plucky,now 0.147ubuntu1 all [installed,upgradable to: 0.147ubuntu1.1]
+initramfs-tools/plucky,now 0.147ubuntu1 all [installed,upgradable to: 0.147ubuntu1.1]
+inputattach/plucky,now 1:1.8.1-2build1 amd64 [installed,automatic]
+install-info/plucky,now 7.1.1-1 amd64 [installed,automatic]
+intel-microcode/plucky-updates,plucky-security,now 3.20250512.0ubuntu0.25.04.1 amd64 [installed,automatic]
+ipp-usb/plucky,now 0.9.28-0ubuntu2 amd64 [installed,automatic]
+iproute2/plucky,now 6.14.0-1ubuntu1 amd64 [installed,automatic]
+iptables/plucky,now 1.8.11-2ubuntu1 amd64 [installed,automatic]
+iputils-ping/plucky-updates,plucky-security,now 3:20240905-1ubuntu1.1 amd64 [installed,automatic]
+iputils-tracepath/plucky-updates,plucky-security,now 3:20240905-1ubuntu1.1 amd64 [installed,automatic]
+iso-codes/plucky,now 4.17.0-1 all [installed,automatic]
+iucode-tool/plucky,now 2.3.1-3build1 amd64 [installed,automatic]
+iw/plucky,now 6.9-1 amd64 [installed,automatic]
+jq/plucky-updates,plucky-security,now 1.7.1-3ubuntu1.1 amd64 [installed,automatic]
+kbd/plucky,now 2.7.1-2ubuntu1 amd64 [installed,automatic]
+kdump-tools/plucky,now 1:1.10.5ubuntu2 amd64 [installed,automatic]
+kexec-tools/plucky,now 1:2.0.28-0ubuntu3 amd64 [installed,automatic]
+keyboard-configuration/plucky,now 1.226ubuntu3 all [installed,automatic]
+keyboxd/plucky-updates,plucky-security,now 2.4.4-2ubuntu23.1 amd64 [installed,automatic]
+klibc-utils/plucky,now 2.0.13-4ubuntu1 amd64 [installed,automatic]
+kmod/plucky,now 33+20240816-2ubuntu1 amd64 [installed,automatic]
+krb5-locales/plucky,now 1.21.3-4ubuntu2 all [installed,automatic]
+language-pack-en-base/plucky,now 1:25.04+20250410 all [installed]
+language-pack-en/plucky,now 1:25.04+20250410 all [installed]
+language-pack-gnome-en-base/plucky,now 1:25.04+20250410 all [installed]
+language-pack-gnome-en/plucky,now 1:25.04+20250410 all [installed]
+language-selector-common/plucky,now 0.227 all [installed,automatic]
+language-selector-gnome/plucky,now 0.227 all [installed,automatic]
+laptop-detect/plucky,now 0.16+nmu1 all [installed,automatic]
+ldap-utils/plucky,now 2.6.9+dfsg-2ubuntu1 amd64 [installed,automatic]
+less/plucky,now 643-1 amd64 [installed,automatic]
+libaa1/plucky,now 1.4p5-51.1 amd64 [installed,automatic]
+libabsl20230802/plucky-updates,plucky-security,now 20230802.1-4.2ubuntu0.2 amd64 [installed,automatic]
+libaccountsservice0/plucky,now 23.13.9-7ubuntu1 amd64 [installed,automatic]
+libacl1/plucky,now 2.3.2-2 amd64 [installed,automatic]
+libadwaita-1-0/plucky,now 1.7.0-1ubuntu1 amd64 [installed,upgradable to: 1.7.0-1ubuntu2]
+libao-common/plucky,now 1.2.2+20180113-1.2ubuntu1 all [installed,automatic]
+libao4/plucky,now 1.2.2+20180113-1.2ubuntu1 amd64 [installed,automatic]
+libaom3/plucky,now 3.12.0-1 amd64 [installed,automatic]
+libapparmor1/plucky,now 4.1.0~beta5-0ubuntu14 amd64 [installed,upgradable to: 4.1.0~beta5-0ubuntu14.2]
+libappstream5/plucky,now 1.0.4-1 amd64 [installed,automatic]
+libapt-pkg7.0/plucky,now 3.0.0 amd64 [installed,automatic]
+libarchive13t64/plucky-updates,plucky-security,now 3.7.7-0ubuntu2.3 amd64 [installed,automatic]
+libasound2-data/plucky,now 1.2.13-1build1 all [installed,upgradable to: 1.2.13-1ubuntu0.1]
+libasound2t64/plucky,now 1.2.13-1build1 amd64 [installed,upgradable to: 1.2.13-1ubuntu0.1]
+libaspell15/plucky,now 0.60.8.1-4 amd64 [installed,automatic]
+libassuan9/plucky,now 3.0.2-2 amd64 [installed,automatic]
+libasyncns0/plucky,now 0.8-6build4 amd64 [installed,automatic]
+libatasmart4/plucky,now 0.19-5build3 amd64 [installed,automatic]
+libatk-adaptor/plucky,now 2.56.1-1 amd64 [installed,automatic]
+libatk-bridge2.0-0t64/plucky,now 2.56.1-1 amd64 [installed,automatic]
+libatk1.0-0t64/plucky,now 2.56.1-1 amd64 [installed,automatic]
+libatomic1/plucky,now 15-20250404-0ubuntu1 amd64 [installed,automatic]
+libatopology2t64/plucky,now 1.2.13-1build1 amd64 [installed,upgradable to: 1.2.13-1ubuntu0.1]
+libatspi2.0-0t64/plucky,now 2.56.1-1 amd64 [installed,automatic]
+libattr1/plucky,now 1:2.5.2-3 amd64 [installed,automatic]
+libaudit-common/plucky,now 1:4.0.2-2ubuntu2 all [installed,automatic]
+libaudit1/plucky,now 1:4.0.2-2ubuntu2 amd64 [installed,automatic]
+libauthen-sasl-perl/plucky,now 2.1700-1 all [installed,automatic]
+libavahi-client3/plucky,now 0.8-16ubuntu2 amd64 [installed,automatic]
+libavahi-common-data/plucky,now 0.8-16ubuntu2 amd64 [installed,automatic]
+libavahi-common3/plucky,now 0.8-16ubuntu2 amd64 [installed,automatic]
+libavahi-core7/plucky,now 0.8-16ubuntu2 amd64 [installed,automatic]
+libavahi-glib1/plucky,now 0.8-16ubuntu2 amd64 [installed,automatic]
+libavc1394-0/plucky,now 0.5.4-5build3 amd64 [installed,automatic]
+libayatana-appindicator3-1/plucky,now 0.5.94-1 amd64 [installed,automatic]
+libayatana-ido3-0.4-0/plucky,now 0.10.4-1 amd64 [installed,automatic]
+libayatana-indicator3-7/plucky,now 0.9.4-1build1 amd64 [installed,automatic]
+libbabeltrace1/plucky,now 1.5.11-4build2 amd64 [installed,automatic]
+libbasicobjects0t64/plucky,now 0.6.2-3 amd64 [installed,automatic]
+libbinutils/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+libblkid1/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+libblockdev-crypto3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-fs3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-loop3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-mdraid3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-nvme3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-part3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-swap3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev-utils3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libblockdev3/plucky-updates,plucky-security,now 3.3.0-2ubuntu0.1 amd64 [installed,automatic]
+libbluetooth3/plucky,now 5.79-2ubuntu1 amd64 [installed,upgradable to: 5.79-2ubuntu1.3]
+libbpf1/plucky,now 1:1.5.0-2 amd64 [installed,automatic]
+libbpfcc/plucky,now 0.30.0+ds-1ubuntu5 amd64 [installed,automatic]
+libbrlapi0.8/plucky,now 6.7-1ubuntu3 amd64 [installed,automatic]
+libbrotli1/plucky,now 1.1.0-2build4 amd64 [installed,automatic]
+libbsd0/plucky,now 0.12.2-2 amd64 [installed,automatic]
+libbytesize-common/plucky,now 2.11-2 all [installed,automatic]
+libbytesize1/plucky,now 2.11-2 amd64 [installed,automatic]
+libbz2-1.0/plucky,now 1.0.8-6 amd64 [installed,automatic]
+libc-bin/plucky-updates,plucky-security,now 2.41-6ubuntu1.2 amd64 [installed,automatic]
+libc-dev-bin/plucky-updates,plucky-security,now 2.41-6ubuntu1.2 amd64 [installed,automatic]
+libc6-dbg/plucky-updates,plucky-security,now 2.41-6ubuntu1.2 amd64 [installed,automatic]
+libc6-dev/plucky-updates,plucky-security,now 2.41-6ubuntu1.2 amd64 [installed,automatic]
+libc6/plucky-updates,plucky-security,now 2.41-6ubuntu1.2 amd64 [installed,automatic]
+libcaca0/plucky,now 0.99.beta20-5 amd64 [installed,automatic]
+libcairo-gobject-perl/plucky,now 1.005-4build4 amd64 [installed,automatic]
+libcairo-gobject2/plucky,now 1.18.4-1 amd64 [installed,automatic]
+libcairo-perl/plucky,now 1.109-5build1 amd64 [installed,automatic]
+libcairo-script-interpreter2/plucky,now 1.18.4-1 amd64 [installed,automatic]
+libcairo2/plucky,now 1.18.4-1 amd64 [installed,automatic]
+libcairomm-1.16-1/plucky,now 1.18.0-2 amd64 [installed,automatic]
+libcamel-1.2-64t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libcanberra-gtk3-0/plucky,now 0.30-17ubuntu2 amd64 [installed,automatic]
+libcanberra-gtk3-module/plucky,now 0.30-17ubuntu2 amd64 [installed,automatic]
+libcanberra-pulse/plucky,now 0.30-17ubuntu2 amd64 [installed,automatic]
+libcanberra0/plucky,now 0.30-17ubuntu2 amd64 [installed,automatic]
+libcap-ng0/plucky,now 0.8.5-4build1 amd64 [installed,automatic]
+libcap2-bin/plucky,now 1:2.73-4ubuntu1 amd64 [installed,automatic]
+libcap2/plucky,now 1:2.73-4ubuntu1 amd64 [installed,automatic]
+libcares2/plucky-updates,plucky-security,now 1.34.4-2.1ubuntu0.1 amd64 [installed,automatic]
+libcbor0.10/plucky,now 0.10.2-2ubuntu1 amd64 [installed,automatic]
+libcdio-cdda2t64/plucky,now 10.2+2.0.2-1 amd64 [installed,automatic]
+libcdio-paranoia2t64/plucky,now 10.2+2.0.2-1 amd64 [installed,automatic]
+libcdio19t64/plucky,now 2.2.0-1 amd64 [installed,automatic]
+libcdparanoia0/plucky,now 3.10.2+debian-14ubuntu1 amd64 [installed,automatic]
+libchewing3-data/plucky,now 0.9.1-1 all [installed]
+libchewing3/plucky,now 0.9.1-1 amd64 [installed]
+libclang-cpp18/plucky,now 1:18.1.8-17 amd64 [installed,automatic]
+libclang1-19/plucky,now 1:19.1.7-3ubuntu1 amd64 [installed,automatic]
+libclone-perl/plucky,now 0.47-1 amd64 [installed,automatic]
+libcollection4t64/plucky,now 0.6.2-3 amd64 [installed,automatic]
+libcolord-gtk4-1t64/plucky,now 0.3.1-1build2 amd64 [installed,automatic]
+libcolord2/plucky,now 1.4.7-3 amd64 [installed,automatic]
+libcolorhug2/plucky,now 1.4.7-3 amd64 [installed,automatic]
+libcom-err2/plucky,now 1.47.2-1ubuntu1 amd64 [installed,automatic]
+libcpdb-frontend2t64/plucky,now 2.0~b7-0ubuntu3 amd64 [installed,automatic]
+libcpdb2t64/plucky,now 2.0~b7-0ubuntu3 amd64 [installed,automatic]
+libcrack2/plucky,now 2.9.6-5.2build1 amd64 [installed,automatic]
+libcrypt-dev/plucky,now 1:4.4.38-1 amd64 [installed,automatic]
+libcrypt1/plucky,now 1:4.4.38-1 amd64 [installed,automatic]
+libcryptsetup12/plucky,now 2:2.7.5-1ubuntu2 amd64 [installed,automatic]
+libctf-nobfd0/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+libctf0/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+libcue2/plucky,now 2.2.1-4.1build1 amd64 [installed,automatic]
+libcups2t64/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+libcupsfilters2-common/plucky,now 2.1.1-0ubuntu2 all [installed,automatic]
+libcupsfilters2t64/plucky,now 2.1.1-0ubuntu2 amd64 [installed,automatic]
+libcupsimage2t64/plucky-updates,plucky-security,now 2.4.12-0ubuntu1.1 amd64 [installed,automatic]
+libcurl3t64-gnutls/plucky,now 8.12.1-3ubuntu1 amd64 [installed,automatic]
+libcurl4t64/plucky,now 8.12.1-3ubuntu1 amd64 [installed,automatic]
+libdaemon0/plucky,now 0.14-7.1ubuntu4 amd64 [installed,automatic]
+libdata-dump-perl/plucky,now 1.25-1 all [installed,automatic]
+libdatrie1/plucky,now 0.2.13-3build1 amd64 [installed,automatic]
+libdb5.3t64/plucky,now 5.3.28+dfsg2-9 amd64 [installed,automatic]
+libdbus-1-3/plucky,now 1.16.2-2ubuntu1 amd64 [installed,automatic]
+libdbusmenu-glib4/plucky,now 18.10.20180917~bzr492+repack1-4 amd64 [installed,automatic]
+libdbusmenu-gtk3-4/plucky,now 18.10.20180917~bzr492+repack1-4 amd64 [installed,automatic]
+libdconf1/plucky,now 0.40.0-5 amd64 [installed,upgradable to: 0.40.0-5ubuntu0.1]
+libde265-0/plucky,now 1.0.15-1build5 amd64 [installed,automatic]
+libdebconfclient0/plucky,now 0.277ubuntu1 amd64 [installed,automatic]
+libdebuginfod-common/plucky,now 0.192-4ubuntu1 all [installed,automatic]
+libdebuginfod1t64/plucky,now 0.192-4ubuntu1 amd64 [installed,automatic]
+libdecor-0-0/plucky,now 0.2.2-2 amd64 [installed,automatic]
+libdecor-0-plugin-1-gtk/plucky,now 0.2.2-2 amd64 [installed,automatic]
+libdee-1.0-4/plucky,now 1.2.7+17.10.20170616-7build6 amd64 [installed,automatic]
+libdeflate0/plucky,now 1.23-1 amd64 [installed,automatic]
+libdevmapper1.02.1/plucky,now 2:1.02.201-1ubuntu1 amd64 [installed,automatic]
+libdex-1-1/plucky,now 0.10.0-1 amd64 [installed,automatic]
+libdhash1t64/plucky,now 0.6.2-3 amd64 [installed,automatic]
+libdisplay-info2/plucky,now 0.2.0-2 amd64 [installed,automatic]
+libdjvulibre-text/plucky-updates,plucky-security,now 3.5.28-2ubuntu0.25.04.1 all [installed,automatic]
+libdjvulibre21/plucky-updates,plucky-security,now 3.5.28-2ubuntu0.25.04.1 amd64 [installed,automatic]
+libdotconf0/plucky,now 1.4.1-1 amd64 [installed,automatic]
+libdrm-amdgpu1/plucky,now 2.4.124-2 amd64 [installed,automatic]
+libdrm-common/plucky,now 2.4.124-2 all [installed,automatic]
+libdrm-intel1/plucky,now 2.4.124-2 amd64 [installed,automatic]
+libdrm-nouveau2/plucky,now 2.4.124-2 amd64 [installed,automatic]
+libdrm-radeon1/plucky,now 2.4.124-2 amd64 [installed,automatic]
+libdrm2/plucky,now 2.4.124-2 amd64 [installed,automatic]
+libduktape207/plucky,now 2.7.0+tests-0ubuntu3 amd64 [installed,automatic]
+libdv4t64/plucky,now 1.0.0-17.1build1 amd64 [installed,automatic]
+libdw1t64/plucky,now 0.192-4ubuntu1 amd64 [installed,automatic]
+libeatmydata1/plucky,now 131-2 amd64 [installed,automatic]
+libebackend-1.2-11t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libebook-1.2-21t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libebook-contacts-1.2-4t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libecal-2.0-3/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libedata-book-1.2-27t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libedata-cal-2.0-2t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libedataserver-1.2-27t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libedataserverui-1.2-4t64/plucky,now 3.56.0-1 amd64 [installed,automatic]
+libedit2/plucky,now 3.1-20250104-1 amd64 [installed,automatic]
+libeditorconfig0/plucky,now 0.12.9+~0.15.1-1ubuntu1 amd64 [installed,automatic]
+libefiboot1t64/plucky,now 38-3.1build1 amd64 [installed,automatic]
+libefivar1t64/plucky,now 38-3.1build1 amd64 [installed,automatic]
+libegl-mesa0/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+libegl1/plucky,now 1.7.0-1build1 amd64 [installed,automatic]
+libei1/plucky,now 1.3.901-1 amd64 [installed,automatic]
+libeis1/plucky,now 1.3.901-1 amd64 [installed,automatic]
+libelf1t64/plucky,now 0.192-4ubuntu1 amd64 [installed,automatic]
+libenchant-2-2/plucky,now 2.8.2+dfsg1-3 amd64 [installed,automatic]
+libencode-locale-perl/plucky,now 1.05-3 all [installed,automatic]
+libepoxy0/plucky,now 1.5.10-2 amd64 [installed,automatic]
+liberror-perl/plucky,now 0.17030-1 all [installed,automatic]
+libespeak-ng1/plucky,now 1.52.0+dfsg-4 amd64 [installed,automatic]
+libestr0/plucky,now 0.1.11-2 amd64 [installed,automatic]
+libevdev2/plucky,now 1.13.3+dfsg-1 amd64 [installed,automatic]
+libexempi8/plucky,now 2.6.5-1build1 amd64 [installed,automatic]
+libexif12/plucky,now 0.6.25-1 amd64 [installed,automatic]
+libexiv2-28/plucky,now 0.28.5+dfsg-1 amd64 [installed,automatic]
+libexiv2-data/plucky,now 0.28.5+dfsg-1 all [installed,automatic]
+libexpat1/plucky,now 2.7.1-1 amd64 [installed,automatic]
+libext2fs2t64/plucky,now 1.47.2-1ubuntu1 amd64 [installed,automatic]
+libextutils-depends-perl/plucky,now 0.8001-2 all [installed,automatic]
+libfastjson4/plucky,now 1.2304.0-2 amd64 [installed,automatic]
+libfdisk1/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+libffi8/plucky,now 3.4.7-1 amd64 [installed,automatic]
+libfftw3-single3/plucky,now 3.3.10-2fakesync1build1 amd64 [installed,automatic]
+libfido2-1/plucky,now 1.15.0-1 amd64 [installed,automatic]
+libfile-basedir-perl/plucky,now 0.09-2 all [installed,automatic]
+libfile-desktopentry-perl/plucky,now 0.22-3 all [installed,automatic]
+libfile-listing-perl/plucky,now 6.16-1 all [installed,automatic]
+libfile-mimeinfo-perl/plucky,now 0.35-1 all [installed,automatic]
+libflac14/plucky,now 1.5.0+ds-2 amd64 [installed,automatic]
+libflashrom1/plucky,now 1.4.0-3ubuntu1 amd64 [installed,automatic]
+libfont-afm-perl/plucky,now 1.20-4 all [installed,automatic]
+libfontconfig1/plucky,now 2.15.0-2.2ubuntu1 amd64 [installed,automatic]
+libfontenc1/plucky,now 1:1.1.8-1build1 amd64 [installed,automatic]
+libfprint-2-2/plucky,now 1:1.94.9+tod1-1 amd64 [installed,automatic]
+libfprint-2-tod1/plucky,now 1:1.94.9+tod1-1 amd64 [installed,automatic]
+libfreeaptx0/plucky,now 0.1.1-2build1 amd64 [installed,automatic]
+libfreerdp-server3-3/plucky-updates,plucky-security,now 3.14.0+dfsg-1ubuntu1.1 amd64 [installed,automatic]
+libfreerdp3-3/plucky-updates,plucky-security,now 3.14.0+dfsg-1ubuntu1.1 amd64 [installed,automatic]
+libfreetype6/plucky,now 2.13.3+dfsg-1 amd64 [installed,automatic]
+libfribidi0/plucky,now 1.0.16-1 amd64 [installed,automatic]
+libftdi1-2/plucky,now 1.5-8build1 amd64 [installed,automatic]
+libfuse3-3/plucky,now 3.14.0-10 amd64 [installed,automatic]
+libfwupd3/plucky,now 2.0.7-1 amd64 [installed,upgradable to: 2.0.13-1~25.04.1]
+libgail-common/plucky,now 2.24.33-6ubuntu1 amd64 [installed,automatic]
+libgail18t64/plucky,now 2.24.33-6ubuntu1 amd64 [installed,automatic]
+libgamemode0/plucky,now 1.8.2-2 amd64 [installed,automatic]
+libgamemodeauto0/plucky,now 1.8.2-2 amd64 [installed,automatic]
+libgbm1/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+libgcc-s1/plucky,now 15-20250404-0ubuntu1 amd64 [installed,automatic]
+libgck-1-0/plucky,now 3.41.2-1build3 amd64 [installed,automatic]
+libgck-2-2/plucky,now 4.4.0.1-2 amd64 [installed,automatic]
+libgcr-4-4/plucky,now 4.4.0.1-2 amd64 [installed,automatic]
+libgcr-base-3-1/plucky,now 3.41.2-1build3 amd64 [installed,automatic]
+libgcr-ui-3-1/plucky,now 3.41.2-1build3 amd64 [installed,automatic]
+libgcrypt20/plucky,now 1.11.0-6ubuntu1 amd64 [installed,automatic]
+libgd3/plucky,now 2.3.3-12ubuntu3 amd64 [installed,automatic]
+libgdata-common/plucky,now 0.18.1-9 all [installed,automatic]
+libgdata22/plucky,now 0.18.1-9 amd64 [installed,automatic]
+libgdbm-compat4t64/plucky,now 1.24-2 amd64 [installed,automatic]
+libgdbm6t64/plucky,now 1.24-2 amd64 [installed,automatic]
+libgdk-pixbuf-2.0-0/plucky-updates,plucky-security,now 2.42.12+dfsg-2ubuntu0.1 amd64 [installed,automatic]
+libgdk-pixbuf2.0-bin/plucky-updates,plucky-security,now 2.42.12+dfsg-2ubuntu0.1 amd64 [installed,automatic]
+libgdk-pixbuf2.0-common/plucky-updates,plucky-security,now 2.42.12+dfsg-2ubuntu0.1 all [installed,automatic]
+libgdm1/plucky,now 48.0-1ubuntu1 amd64 [installed,upgradable to: 48.0-1ubuntu1.1]
+libgee-0.8-2/plucky,now 0.20.8-1 amd64 [installed,automatic]
+libgeoclue-2-0/plucky,now 2.7.2-2ubuntu1 amd64 [installed,automatic]
+libgeocode-glib-2-0/plucky,now 3.26.3-6build3 amd64 [installed,automatic]
+libgexiv2-2/plucky,now 0.14.3-1build1 amd64 [installed,automatic]
+libgif7/plucky,now 5.2.2-1ubuntu2 amd64 [installed,automatic]
+libgirepository-1.0-1/plucky,now 1.84.0-1 amd64 [installed,automatic]
+libgjs0g/plucky,now 1.82.1-1 amd64 [installed,automatic]
+libgl1-mesa-dri/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+libgl1/plucky,now 1.7.0-1build1 amd64 [installed,automatic]
+libgles2/plucky,now 1.7.0-1build1 amd64 [installed,automatic]
+libglib-object-introspection-perl/plucky,now 0.051-2build1 amd64 [installed,automatic]
+libglib-perl/plucky,now 3:1.329.3-3build4 amd64 [installed,automatic]
+libglib2.0-0t64/plucky-updates,plucky-security,now 2.84.1-1ubuntu0.1 amd64 [installed,automatic]
+libglib2.0-bin/plucky-updates,plucky-security,now 2.84.1-1ubuntu0.1 amd64 [installed,automatic]
+libglib2.0-data/plucky-updates,plucky-security,now 2.84.1-1ubuntu0.1 all [installed,automatic]
+libglibmm-2.68-1t64/plucky,now 2.84.0-1 amd64 [installed,automatic]
+libglu1-mesa/plucky,now 9.0.2-1.1build1 amd64 [installed,automatic]
+libglvnd0/plucky,now 1.7.0-1build1 amd64 [installed,automatic]
+libglx-mesa0/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+libglx0/plucky,now 1.7.0-1build1 amd64 [installed,automatic]
+libgmp10/plucky,now 2:6.3.0+dfsg-3ubuntu1 amd64 [installed,automatic]
+libgnome-autoar-0-0/plucky,now 0.4.5-2 amd64 [installed,automatic]
+libgnome-bg-4-2t64/plucky,now 44.1-2 amd64 [installed,automatic]
+libgnome-bluetooth-3.0-13/plucky,now 47.1-1 amd64 [installed,automatic]
+libgnome-bluetooth-ui-3.0-13/plucky,now 47.1-1 amd64 [installed,automatic]
+libgnome-desktop-3-20t64/plucky,now 44.1-2 amd64 [installed,automatic]
+libgnome-desktop-4-2t64/plucky,now 44.1-2 amd64 [installed,automatic]
+libgnome-menu-3-0/plucky,now 3.36.0-1.1ubuntu3 amd64 [installed,automatic]
+libgnome-rr-4-2t64/plucky,now 44.1-2 amd64 [installed,automatic]
+libgnutls30t64/plucky-updates,plucky-security,now 3.8.9-2ubuntu3.1 amd64 [installed,automatic]
+libgoa-1.0-0b/plucky,now 3.54.1-1 amd64 [installed,automatic]
+libgoa-1.0-common/plucky,now 3.54.1-1 all [installed,automatic]
+libgoa-backend-1.0-2/plucky,now 3.54.1-1 amd64 [installed,automatic]
+libgomp1/plucky,now 15-20250404-0ubuntu1 amd64 [installed,automatic]
+libgpg-error-l10n/plucky,now 1.51-3 all [installed,automatic]
+libgpg-error0/plucky,now 1.51-3 amd64 [installed,automatic]
+libgpgme11t64/plucky,now 1.24.2-1ubuntu2 amd64 [installed,automatic]
+libgpgmepp6t64/plucky,now 1.24.2-1ubuntu2 amd64 [installed,automatic]
+libgphoto2-6t64/plucky,now 2.5.31-4 amd64 [installed,automatic]
+libgphoto2-l10n/plucky,now 2.5.31-4 all [installed,automatic]
+libgphoto2-port12t64/plucky,now 2.5.31-4 amd64 [installed,automatic]
+libgpm2/plucky,now 1.20.7-11 amd64 [installed,automatic]
+libgprofng0/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+libgraphene-1.0-0/plucky,now 1.10.8-5 amd64 [installed,automatic]
+libgraphite2-3/plucky,now 1.3.14-2ubuntu1 amd64 [installed,automatic]
+libgs-common/plucky-updates,plucky-security,now 10.05.0dfsg1-0ubuntu1.2 all [installed,automatic]
+libgs10-common/plucky-updates,plucky-security,now 10.05.0dfsg1-0ubuntu1.2 all [installed,automatic]
+libgs10/plucky-updates,plucky-security,now 10.05.0dfsg1-0ubuntu1.2 amd64 [installed,automatic]
+libgsf-1-114/plucky,now 1.14.53-1 amd64 [installed,automatic]
+libgsf-1-common/plucky,now 1.14.53-1 all [installed,automatic]
+libgsound0t64/plucky,now 1.0.3-3.2build2 amd64 [installed,automatic]
+libgssapi-krb5-2/plucky,now 1.21.3-4ubuntu2 amd64 [installed,automatic]
+libgssdp-1.6-0/plucky,now 1.6.3-2 amd64 [installed,automatic]
+libgstreamer-gl1.0-0/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+libgstreamer-plugins-base1.0-0/plucky-updates,plucky-security,now 1.26.0-1ubuntu0.1 amd64 [installed,automatic]
+libgstreamer-plugins-good1.0-0/plucky-updates,plucky-security,now 1.26.0-1ubuntu2.1 amd64 [installed,automatic]
+libgstreamer1.0-0/plucky,now 1.26.0-3 amd64 [installed,automatic]
+libgtk-3-0t64/plucky,now 3.24.49-2ubuntu1 amd64 [installed,automatic]
+libgtk-3-bin/plucky,now 3.24.49-2ubuntu1 amd64 [installed,automatic]
+libgtk-3-common/plucky,now 3.24.49-2ubuntu1 all [installed,automatic]
+libgtk-4-1/plucky,now 4.18.4+ds-1 amd64 [installed,upgradable to: 4.18.5+ds-0ubuntu0.1]
+libgtk-4-bin/plucky,now 4.18.4+ds-1 amd64 [installed,upgradable to: 4.18.5+ds-0ubuntu0.1]
+libgtk-4-common/plucky,now 4.18.4+ds-1 all [installed,upgradable to: 4.18.5+ds-0ubuntu0.1]
+libgtk-4-media-gstreamer/plucky,now 4.18.4+ds-1 amd64 [installed,upgradable to: 4.18.5+ds-0ubuntu0.1]
+libgtk2.0-0t64/plucky,now 2.24.33-6ubuntu1 amd64 [installed,automatic]
+libgtk2.0-bin/plucky,now 2.24.33-6ubuntu1 amd64 [installed,automatic]
+libgtk2.0-common/plucky,now 2.24.33-6ubuntu1 all [installed,automatic]
+libgtk3-perl/plucky,now 0.038-3 all [installed,automatic]
+libgtkmm-4.0-0/plucky,now 4.18.0-1 amd64 [installed,automatic]
+libgtksourceview-5-0/plucky,now 5.16.0-1 amd64 [installed,automatic]
+libgtksourceview-5-common/plucky,now 5.16.0-1 all [installed,automatic]
+libgtop-2.0-11/plucky,now 2.41.3-1build4 amd64 [installed,upgradable to: 2.41.3-1ubuntu0.25.04.1]
+libgtop2-common/plucky,now 2.41.3-1build4 all [installed,upgradable to: 2.41.3-1ubuntu0.25.04.1]
+libgudev-1.0-0/plucky,now 1:238-6 amd64 [installed,automatic]
+libgupnp-1.6-0/plucky,now 1.6.8-2 amd64 [installed,automatic]
+libgupnp-av-1.0-3/plucky,now 0.14.3-1 amd64 [installed,automatic]
+libgupnp-dlna-2.0-4/plucky,now 0.12.0-4build2 amd64 [installed,automatic]
+libgusb2/plucky,now 0.4.9-1 amd64 [installed,automatic]
+libgweather-4-0t64/plucky,now 4.4.4-1 amd64 [installed,automatic]
+libgweather-4-common/plucky,now 4.4.4-1 all [installed,automatic]
+libgxps2t64/plucky,now 0.3.2-4build3 amd64 [installed,automatic]
+libhandy-1-0/plucky,now 1.8.3-2 amd64 [installed,automatic]
+libharfbuzz-gobject0/plucky,now 10.2.0-1 amd64 [installed,automatic]
+libharfbuzz-icu0/plucky,now 10.2.0-1 amd64 [installed,automatic]
+libharfbuzz-subset0/plucky,now 10.2.0-1 amd64 [installed,automatic]
+libharfbuzz0b/plucky,now 10.2.0-1 amd64 [installed,automatic]
+libheif-plugin-aomdec/plucky,now 1.19.7-1 amd64 [installed,automatic]
+libheif-plugin-aomenc/plucky,now 1.19.7-1 amd64 [installed,automatic]
+libheif-plugin-libde265/plucky,now 1.19.7-1 amd64 [installed,automatic]
+libheif1/plucky,now 1.19.7-1 amd64 [installed,automatic]
+libhogweed6t64/plucky,now 3.10.1-1 amd64 [installed,automatic]
+libhpmud0/plucky,now 3.24.4+dfsg0-0ubuntu5 amd64 [installed,automatic]
+libhtml-form-perl/plucky,now 6.12-1 all [installed,automatic]
+libhtml-format-perl/plucky,now 2.16-2 all [installed,automatic]
+libhtml-parser-perl/plucky,now 3.83-1build1 amd64 [installed,automatic]
+libhtml-tagset-perl/plucky,now 3.24-1 all [installed,automatic]
+libhtml-tree-perl/plucky,now 5.07-3 all [installed,automatic]
+libhttp-cookies-perl/plucky,now 6.11-1 all [installed,automatic]
+libhttp-daemon-perl/plucky,now 6.16-1 all [installed,automatic]
+libhttp-date-perl/plucky,now 6.06-1 all [installed,automatic]
+libhttp-message-perl/plucky,now 7.00-2ubuntu1 all [installed,automatic]
+libhttp-negotiate-perl/plucky,now 6.01-2 all [installed,automatic]
+libhunspell-1.7-0/plucky,now 1.7.2+really1.7.2-10build3 amd64 [installed,automatic]
+libhwy1t64/plucky,now 1.2.0-3ubuntu3 amd64 [installed,automatic]
+libhyphen0/plucky,now 2.8.8-7build3 amd64 [installed,automatic]
+libibus-1.0-5/plucky,now 1.5.32~rc2-1 amd64 [installed,automatic]
+libibverbs1/plucky,now 56.0-4ubuntu1 amd64 [installed,automatic]
+libical3t64/plucky,now 3.0.19-4 amd64 [installed,automatic]
+libice6/plucky,now 2:1.1.1-1 amd64 [installed,automatic]
+libicu76/plucky,now 76.1-1ubuntu2 amd64 [installed,automatic]
+libidn12/plucky,now 1.43-1 amd64 [installed,automatic]
+libidn2-0/plucky,now 2.3.8-2 amd64 [installed,automatic]
+libiec61883-0/plucky,now 1.2.0-7 amd64 [installed,automatic]
+libieee1284-3t64/plucky,now 0.2.11-14.1build1 amd64 [installed,automatic]
+libijs-0.35/plucky,now 0.35-15.2 amd64 [installed,automatic]
+libimagequant0/plucky,now 2.18.0-1build1 amd64 [installed,automatic]
+libimobiledevice-1.0-6/plucky,now 1.3.0+git20240701-4build2 amd64 [installed,automatic]
+libimobiledevice-glue-1.0-0/plucky,now 1.3.1-1 amd64 [installed,automatic]
+libini-config5t64/plucky,now 0.6.2-3 amd64 [installed,automatic]
+libinih1/plucky,now 58-1ubuntu1 amd64 [installed,automatic]
+libinireader0/plucky,now 58-1ubuntu1 amd64 [installed,automatic]
+libinput-bin/plucky,now 1.27.1-1 amd64 [installed,upgradable to: 1.27.1-1ubuntu0.1]
+libinput10/plucky,now 1.27.1-1 amd64 [installed,upgradable to: 1.27.1-1ubuntu0.1]
+libio-html-perl/plucky,now 1.004-3 all [installed,automatic]
+libio-socket-ssl-perl/plucky,now 2.089-1 all [installed,automatic]
+libio-stringy-perl/plucky,now 2.113-2 all [installed,automatic]
+libip4tc2/plucky,now 1.8.11-2ubuntu1 amd64 [installed,automatic]
+libip6tc2/plucky,now 1.8.11-2ubuntu1 amd64 [installed,automatic]
+libipa-hbac0t64/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+libipc-system-simple-perl/plucky,now 1.30-2 all [installed,automatic]
+libipt2/plucky,now 2.1.2-1 amd64 [installed,automatic]
+libisl23/plucky,now 0.27-1 amd64 [installed,automatic]
+libjansson4/plucky,now 2.14-2build2 amd64 [installed,automatic]
+libjavascriptcoregtk-4.1-0/plucky-updates,plucky-security,now 2.48.7-0ubuntu0.25.04.2 amd64 [installed,automatic]
+libjavascriptcoregtk-6.0-1/plucky-updates,plucky-security,now 2.48.7-0ubuntu0.25.04.2 amd64 [installed,automatic]
+libjbig0/plucky,now 2.1-6.1ubuntu2 amd64 [installed,automatic]
+libjbig2dec0/plucky,now 0.20-1build3 amd64 [installed,automatic]
+libjcat1/plucky,now 0.2.0-2build3 amd64 [installed,automatic]
+libjemalloc2/plucky,now 5.3.0-3 amd64 [installed,automatic]
+libjpeg-turbo8/plucky,now 2.1.5-3ubuntu2 amd64 [installed,automatic]
+libjpeg8/plucky,now 8c-2ubuntu11 amd64 [installed,automatic]
+libjq1/plucky-updates,plucky-security,now 1.7.1-3ubuntu1.1 amd64 [installed,automatic]
+libjson-c5/plucky,now 0.18+ds-1 amd64 [installed,automatic]
+libjson-glib-1.0-0/plucky,now 1.10.6+ds-2 amd64 [installed,automatic]
+libjson-glib-1.0-common/plucky,now 1.10.6+ds-2 all [installed,automatic]
+libjxl-gdk-pixbuf/plucky,now 0.11.1-4 amd64 [installed,automatic]
+libjxl0.11/plucky,now 0.11.1-4 amd64 [installed,automatic]
+libk5crypto3/plucky,now 1.21.3-4ubuntu2 amd64 [installed,automatic]
+libkeyutils1/plucky,now 1.6.3-4ubuntu2 amd64 [installed,automatic]
+libklibc/plucky,now 2.0.13-4ubuntu1 amd64 [installed,automatic]
+libkmod2/plucky,now 33+20240816-2ubuntu1 amd64 [installed,automatic]
+libkrb5-3/plucky,now 1.21.3-4ubuntu2 amd64 [installed,automatic]
+libkrb5support0/plucky,now 1.21.3-4ubuntu2 amd64 [installed,automatic]
+libksba8/plucky,now 1.6.7-2 amd64 [installed,automatic]
+liblc3-1/plucky,now 1.1.3+dfsg-1 amd64 [installed,automatic]
+liblcms2-2/plucky,now 2.16-2 amd64 [installed,automatic]
+liblcms2-utils/plucky,now 2.16-2 amd64 [installed,automatic]
+libldacbt-abr2/plucky,now 2.0.2.3+git20200429+ed310a0-5 amd64 [installed,automatic]
+libldacbt-enc2/plucky,now 2.0.2.3+git20200429+ed310a0-5 amd64 [installed,automatic]
+libldap-common/plucky,now 2.6.9+dfsg-2ubuntu1 all [installed,automatic]
+libldap2/plucky,now 2.6.9+dfsg-2ubuntu1 amd64 [installed,automatic]
+libldb2/plucky-updates,plucky-security,now 2:2.10.0+samba4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+liblerc4/plucky,now 4.0.0+ds-5ubuntu1 amd64 [installed,automatic]
+libllvm18/plucky,now 1:18.1.8-17 amd64 [installed,automatic]
+libllvm19/plucky,now 1:19.1.7-3ubuntu1 amd64 [installed,automatic]
+liblmdb0/plucky,now 0.9.31-1build1 amd64 [installed,automatic]
+liblocale-gettext-perl/plucky,now 1.07-7build1 amd64 [installed,automatic]
+liblouis-data/plucky,now 3.32.0-1 all [installed,automatic]
+liblouis20/plucky,now 3.32.0-1 amd64 [installed,automatic]
+liblouisutdml-bin/plucky,now 2.12.0-7 amd64 [installed,automatic]
+liblouisutdml-data/plucky,now 2.12.0-7 all [installed,automatic]
+liblouisutdml9t64/plucky,now 2.12.0-7 amd64 [installed,automatic]
+liblsof0/plucky,now 4.99.4+dfsg-2 amd64 [installed,automatic]
+libltdl7/plucky,now 2.5.4-4 amd64 [installed,automatic]
+liblua5.4-0/plucky,now 5.4.7-1 amd64 [installed,automatic]
+liblwp-mediatypes-perl/plucky,now 6.04-2 all [installed,automatic]
+liblwp-protocol-https-perl/plucky,now 6.14-1 all [installed,automatic]
+liblz4-1/plucky,now 1.10.0-4 amd64 [installed,automatic]
+liblzma5/plucky,now 5.6.4-1ubuntu1 amd64 [installed,automatic]
+liblzo2-2/plucky,now 2.10-3 amd64 [installed,automatic]
+libm17n-0/plucky,now 1.8.4-2 amd64 [installed]
+libmagic-mgc/plucky,now 1:5.45-3build1 amd64 [installed,automatic]
+libmagic1t64/plucky,now 1:5.45-3build1 amd64 [installed,automatic]
+libmailtools-perl/plucky,now 2.22-1 all [installed,automatic]
+libmanette-0.2-0/plucky,now 0.2.9-2 amd64 [installed,automatic]
+libmarisa0/plucky,now 0.2.6-18build3 amd64 [installed]
+libmaxminddb0/plucky,now 1.12.2-1 amd64 [installed,automatic]
+libmbim-glib4/plucky,now 1.31.2-0ubuntu4 amd64 [installed,automatic]
+libmbim-proxy/plucky,now 1.31.2-0ubuntu4 amd64 [installed,automatic]
+libmbim-utils/plucky,now 1.31.2-0ubuntu4 amd64 [installed,automatic]
+libmd0/plucky,now 1.1.0-2build2 amd64 [installed,automatic]
+libmediaart-2.0-0/plucky,now 1.9.7-1 amd64 [installed,automatic]
+libmm-glib0/plucky,now 1.23.4-0ubuntu3 amd64 [installed,automatic]
+libmnl0/plucky,now 1.0.5-3 amd64 [installed,automatic]
+libmount1/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+libmozjs-128-0/plucky,now 128.9.0-1 amd64 [installed,automatic]
+libmp3lame0/plucky,now 3.100-6build1 amd64 [installed,automatic]
+libmpc3/plucky,now 1.3.1-1build2 amd64 [installed,automatic]
+libmpfr6/plucky,now 4.2.2-1 amd64 [installed,automatic]
+libmpg123-0t64/plucky,now 1.32.10-1 amd64 [installed,automatic]
+libmsgraph-1-1/plucky,now 0.3.3-3 amd64 [installed,automatic]
+libmtdev1t64/plucky,now 1.1.7-1 amd64 [installed,automatic]
+libmtp-common/plucky,now 1.1.22-1 all [installed,automatic]
+libmtp-runtime/plucky,now 1.1.22-1 amd64 [installed,automatic]
+libmtp9t64/plucky,now 1.1.22-1 amd64 [installed,automatic]
+libmutter-16-0/plucky,now 48.1-1ubuntu3 amd64 [installed,upgradable to: 48.1-1ubuntu3.1]
+libnautilus-extension4/plucky,now 1:48.0-1ubuntu1 amd64 [installed,automatic]
+libncurses6/plucky,now 6.5+20250216-2 amd64 [installed,automatic]
+libncursesw6/plucky,now 6.5+20250216-2 amd64 [installed,automatic]
+libndp0/plucky,now 1.9-1 amd64 [installed,automatic]
+libnet-dbus-perl/plucky,now 1.2.0-2build4 amd64 [installed,automatic]
+libnet-http-perl/plucky,now 6.23-1 all [installed,automatic]
+libnet-smtp-ssl-perl/plucky,now 1.04-2 all [installed,automatic]
+libnet-ssleay-perl/plucky,now 1.94-3 amd64 [installed,automatic]
+libnetfilter-conntrack3/plucky,now 1.1.0-1 amd64 [installed,automatic]
+libnetplan1/plucky,now 1.1.2-2ubuntu1 amd64 [installed,upgradable to: 1.1.2-2ubuntu1.1]
+libnettle8t64/plucky,now 3.10.1-1 amd64 [installed,automatic]
+libnewt0.52/plucky,now 0.52.24-4ubuntu2 amd64 [installed,automatic]
+libnfnetlink0/plucky,now 1.0.2-3 amd64 [installed,automatic]
+libnfs14/plucky,now 5.0.2-1build1 amd64 [installed,automatic]
+libnfsidmap1/plucky,now 1:2.8.2-2ubuntu1 amd64 [installed,automatic]
+libnftables1/plucky,now 1.1.1-1build1 amd64 [installed,automatic]
+libnftnl11/plucky,now 1.2.8-1 amd64 [installed,automatic]
+libnghttp2-14/plucky,now 1.64.0-1ubuntu1 amd64 [installed,automatic]
+libnl-3-200/plucky,now 3.7.0-2 amd64 [installed,automatic]
+libnl-genl-3-200/plucky,now 3.7.0-2 amd64 [installed,automatic]
+libnl-route-3-200/plucky,now 3.7.0-2 amd64 [installed,automatic]
+libnm0/plucky,now 1.52.0-1ubuntu1 amd64 [installed,automatic]
+libnma-common/plucky,now 1.10.6-5 all [installed,automatic]
+libnma-gtk4-0/plucky,now 1.10.6-5 amd64 [installed,automatic]
+libnma0/plucky,now 1.10.6-5 amd64 [installed,automatic]
+libnotify-bin/plucky,now 0.8.4-1 amd64 [installed,automatic]
+libnotify4/plucky,now 0.8.4-1 amd64 [installed,automatic]
+libnpth0t64/plucky,now 1.8-2 amd64 [installed,automatic]
+libnsl2/plucky,now 1.3.0-3build3 amd64 [installed]
+libnspr4/plucky,now 2:4.36-1ubuntu1 amd64 [installed,automatic]
+libnss-mdns/plucky,now 0.15.1-4build1 amd64 [installed,automatic]
+libnss-sss/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+libnss-systemd/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+libnss3/plucky,now 2:3.108-1ubuntu1 amd64 [installed,automatic]
+libntfs-3g89t64/plucky,now 1:2022.10.3-5 amd64 [installed,automatic]
+libnuma1/plucky,now 2.0.18-1build1 amd64 [installed,automatic]
+libnvme1t64/plucky,now 1.11.1-2 amd64 [installed,automatic]
+libogg0/plucky,now 1.3.5-3build1 amd64 [installed,automatic]
+libonig5/plucky,now 6.9.9-1build1 amd64 [installed,automatic]
+libopencc-data/plucky,now 1.1.9+ds1-1build1 all [installed]
+libopencc1.1/plucky,now 1.1.9+ds1-1build1 amd64 [installed]
+libopengl0/plucky,now 1.7.0-1build1 amd64 [installed,automatic]
+libopenjp2-7/plucky-updates,plucky-security,now 2.5.3-2ubuntu0.1 amd64 [installed,automatic]
+libopus0/plucky,now 1.5.2-2 amd64 [installed,automatic]
+liborc-0.4-0t64/plucky,now 1:0.4.41-1 amd64 [installed,automatic]
+libotf1/plucky,now 0.9.16-4build2 amd64 [installed]
+libp11-kit0/plucky,now 0.25.5-2ubuntu3 amd64 [installed,automatic]
+libpackagekit-glib2-18/plucky,now 1.3.0-3build1 amd64 [installed,automatic]
+libpam-cap/plucky,now 1:2.73-4ubuntu1 amd64 [installed,automatic]
+libpam-fprintd/plucky,now 1.94.5-2 amd64 [installed,automatic]
+libpam-gnome-keyring/plucky,now 48.0-1 amd64 [installed,automatic]
+libpam-modules-bin/plucky-updates,plucky-security,now 1.5.3-7ubuntu4.4 amd64 [installed,automatic]
+libpam-modules/plucky-updates,plucky-security,now 1.5.3-7ubuntu4.4 amd64 [installed,automatic]
+libpam-pwquality/plucky,now 1.4.5-4 amd64 [installed,automatic]
+libpam-runtime/plucky-updates,plucky-security,now 1.5.3-7ubuntu4.4 all [installed,automatic]
+libpam-sss/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+libpam-systemd/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+libpam0g/plucky-updates,plucky-security,now 1.5.3-7ubuntu4.4 amd64 [installed,automatic]
+libpanel-1-1/plucky,now 1.10.0-1 amd64 [installed,automatic]
+libpanel-common/plucky,now 1.10.0-1 all [installed,automatic]
+libpango-1.0-0/plucky,now 1.56.3-1 amd64 [installed,automatic]
+libpangocairo-1.0-0/plucky,now 1.56.3-1 amd64 [installed,automatic]
+libpangoft2-1.0-0/plucky,now 1.56.3-1 amd64 [installed,automatic]
+libpangomm-2.48-1t64/plucky,now 2.56.1-1 amd64 [installed,automatic]
+libpangoxft-1.0-0/plucky,now 1.56.3-1 amd64 [installed,automatic]
+libpaper-utils/plucky,now 2.2.5-0.3 amd64 [installed,automatic]
+libpaper2/plucky,now 2.2.5-0.3 amd64 [installed,automatic]
+libparted2t64/plucky,now 3.6-5 amd64 [installed,automatic]
+libpath-utils1t64/plucky,now 0.6.2-3 amd64 [installed,automatic]
+libpcap0.8t64/plucky,now 1.10.5-2ubuntu1 amd64 [installed,automatic]
+libpcaudio0/plucky,now 1.3-1 amd64 [installed,automatic]
+libpci3/plucky,now 1:3.13.0-2 amd64 [installed,automatic]
+libpciaccess0/plucky,now 0.17-3build1 amd64 [installed,upgradable to: 0.17-3ubuntu0.25.04.2]
+libpcre2-32-0/plucky-updates,plucky-security,now 10.45-1ubuntu0.1 amd64 [installed,automatic]
+libpcre2-8-0/plucky-updates,plucky-security,now 10.45-1ubuntu0.1 amd64 [installed,automatic]
+libpcsclite1/plucky,now 2.3.1-1 amd64 [installed,automatic]
+libpeas-1.0-0/plucky,now 1.36.0-3build5 amd64 [installed,automatic]
+libpeas-common/plucky,now 1.36.0-3build5 all [installed,automatic]
+libperl5.40/plucky-updates,plucky-security,now 5.40.1-2ubuntu0.2 amd64 [installed,automatic]
+libphonenumber8/plucky,now 8.13.51+ds-4.2 amd64 [installed,automatic]
+libpinyin-data/plucky,now 2.8.1-1build3 amd64 [installed]
+libpinyin15/plucky,now 2.8.1-1build3 amd64 [installed]
+libpipeline1/plucky,now 1.5.8-1 amd64 [installed,automatic]
+libpipewire-0.3-0t64/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+libpipewire-0.3-common/plucky,now 1.2.7-1ubuntu5 all [installed,upgradable to: 1.2.7-1ubuntu5.1]
+libpipewire-0.3-modules/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+libpixman-1-0/plucky,now 0.44.0-3 amd64 [installed,automatic]
+libpkcs11-helper1t64/plucky,now 1.30.0-1 amd64 [installed,automatic]
+libplist-2.0-4/plucky,now 2.6.0-2build1 amd64 [installed,automatic]
+libplymouth5/plucky,now 24.004.60-2ubuntu7 amd64 [installed,automatic]
+libpng16-16t64/plucky,now 1.6.47-1.1 amd64 [installed,automatic]
+libpolkit-agent-1-0/plucky,now 126-2 amd64 [installed,automatic]
+libpolkit-gobject-1-0/plucky,now 126-2 amd64 [installed,automatic]
+libpoppler-cpp2/plucky-updates,plucky-security,now 25.03.0-3ubuntu1.3 amd64 [installed,automatic]
+libpoppler-glib8t64/plucky-updates,plucky-security,now 25.03.0-3ubuntu1.3 amd64 [installed,automatic]
+libpoppler147/plucky-updates,plucky-security,now 25.03.0-3ubuntu1.3 amd64 [installed,automatic]
+libpopt0/plucky,now 1.19+dfsg-2 amd64 [installed,automatic]
+libportal-gtk4-1/plucky,now 0.9.1-1 amd64 [installed,automatic]
+libportal1/plucky,now 0.9.1-1 amd64 [installed,automatic]
+libppd2-common/plucky,now 2:2.1.1-0ubuntu1 all [installed,automatic]
+libppd2/plucky,now 2:2.1.1-0ubuntu1 amd64 [installed,automatic]
+libppsdocument-4.0-5/plucky,now 48.0-1ubuntu1 amd64 [installed,automatic]
+libppsview-4.0-4/plucky,now 48.0-1ubuntu1 amd64 [installed,automatic]
+libproc2-0/plucky,now 2:4.0.4-7ubuntu1 amd64 [installed,automatic]
+libprotobuf-c1/plucky,now 1.5.1-1ubuntu1 amd64 [installed,automatic]
+libprotobuf32t64/plucky-updates,plucky-security,now 3.21.12-10ubuntu0.1 amd64 [installed,automatic]
+libproxy1-plugin-gsettings/plucky,now 0.5.9-1 amd64 [installed,automatic]
+libproxy1-plugin-networkmanager/plucky,now 0.5.9-1 amd64 [installed,automatic]
+libproxy1v5/plucky,now 0.5.9-1 amd64 [installed,automatic]
+libpsl5t64/plucky,now 0.21.2-1.1build1 amd64 [installed,automatic]
+libpulse-mainloop-glib0/plucky,now 1:17.0+dfsg1-2ubuntu1 amd64 [installed,automatic]
+libpulse0/plucky,now 1:17.0+dfsg1-2ubuntu1 amd64 [installed,automatic]
+libpwquality-common/plucky,now 1.4.5-4 all [installed,automatic]
+libpwquality1/plucky,now 1.4.5-4 amd64 [installed,automatic]
+libpython3-stdlib/plucky,now 3.13.3-1 amd64 [installed,automatic]
+libpython3.13-minimal/plucky-updates,plucky-security,now 3.13.3-1ubuntu0.3 amd64 [installed,automatic]
+libpython3.13-stdlib/plucky-updates,plucky-security,now 3.13.3-1ubuntu0.3 amd64 [installed,automatic]
+libpython3.13/plucky-updates,plucky-security,now 3.13.3-1ubuntu0.3 amd64 [installed,automatic]
+libqmi-glib5/plucky,now 1.35.6-1 amd64 [installed,automatic]
+libqmi-proxy/plucky,now 1.35.6-1 amd64 [installed,automatic]
+libqmi-utils/plucky,now 1.35.6-1 amd64 [installed,automatic]
+libqpdf30/plucky,now 12.0.0-2 amd64 [installed,automatic]
+libqrtr-glib0/plucky,now 1.2.2-1ubuntu4 amd64 [installed,automatic]
+libraqm0/plucky,now 0.10.2-1 amd64 [installed,automatic]
+libraw1394-11/plucky,now 2.1.2-2build3 amd64 [installed,automatic]
+libreadline8t64/plucky,now 8.2-6 amd64 [installed,automatic]
+libref-array1t64/plucky,now 0.6.2-3 amd64 [installed,automatic]
+librest-1.0-0/plucky,now 0.9.1-6build3 amd64 [installed,automatic]
+libroc0.4/plucky,now 0.4.0+dfsg-4ubuntu1 amd64 [installed,automatic]
+librsvg2-2/plucky,now 2.60.0+dfsg-1 amd64 [installed,automatic]
+librsvg2-common/plucky,now 2.60.0+dfsg-1 amd64 [installed,automatic]
+librtmp1/plucky,now 2.4+20151223.gitfa8646d.1-2build7 amd64 [installed,automatic]
+librygel-core-2.8-0/plucky,now 0.44.1-2ubuntu1 amd64 [installed,automatic]
+librygel-db-2.8-0/plucky,now 0.44.1-2ubuntu1 amd64 [installed,automatic]
+librygel-renderer-2.8-0/plucky,now 0.44.1-2ubuntu1 amd64 [installed,automatic]
+librygel-server-2.8-0/plucky,now 0.44.1-2ubuntu1 amd64 [installed,automatic]
+libsamplerate0/plucky,now 0.2.2-4build1 amd64 [installed,automatic]
+libsane-common/plucky,now 1.3.1-3 all [installed,automatic]
+libsane-hpaio/plucky,now 3.24.4+dfsg0-0ubuntu5 amd64 [installed,automatic]
+libsane1/plucky,now 1.3.1-3 amd64 [installed,automatic]
+libsasl2-2/plucky,now 2.1.28+dfsg1-9 amd64 [installed,automatic]
+libsasl2-modules-db/plucky,now 2.1.28+dfsg1-9 amd64 [installed,automatic]
+libsasl2-modules-gssapi-mit/plucky,now 2.1.28+dfsg1-9 amd64 [installed,automatic]
+libsasl2-modules/plucky,now 2.1.28+dfsg1-9 amd64 [installed,automatic]
+libsbc1/plucky,now 2.0-1build1 amd64 [installed,automatic]
+libseccomp2/plucky,now 2.5.5-1ubuntu6 amd64 [installed,automatic]
+libsecret-1-0/plucky,now 0.21.7-1 amd64 [installed,automatic]
+libsecret-common/plucky,now 0.21.7-1 all [installed,automatic]
+libselinux1/plucky,now 3.7-3ubuntu3 amd64 [installed,automatic]
+libsemanage-common/plucky,now 3.7-2.1build1 all [installed,automatic]
+libsemanage2/plucky,now 3.7-2.1build1 amd64 [installed,automatic]
+libsensors-config/plucky,now 1:3.6.0-10 all [installed,automatic]
+libsensors5/plucky,now 1:3.6.0-10 amd64 [installed,automatic]
+libsepol2/plucky,now 3.7-1 amd64 [installed,automatic]
+libsframe1/plucky,now 2.44-3ubuntu1 amd64 [installed,automatic]
+libsharpyuv0/plucky,now 1.5.0-0.1 amd64 [installed,automatic]
+libshout3/plucky,now 2.4.6-1build2 amd64 [installed,automatic]
+libsigc++-3.0-0/plucky,now 3.6.0-2 amd64 [installed,automatic]
+libslang2/plucky,now 2.3.3-5 amd64 [installed,automatic]
+libsm6/plucky,now 2:1.2.4-1 amd64 [installed,automatic]
+libsmartcols1/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+libsmbclient0/plucky-updates,plucky-security,now 2:4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+libsnapd-glib-2-1/plucky,now 1.66-0ubuntu1 amd64 [installed,automatic]
+libsnappy1v5/plucky,now 1.2.1-1 amd64 [installed,automatic]
+libsndfile1/plucky,now 1.2.2-2build1 amd64 [installed,automatic]
+libsnmp-base/plucky,now 5.9.4+dfsg-1.1ubuntu7 all [installed,automatic]
+libsnmp40t64/plucky,now 5.9.4+dfsg-1.1ubuntu7 amd64 [installed,automatic]
+libsodium23/plucky,now 1.0.18-1build3 amd64 [installed,automatic]
+libsonic0/plucky,now 0.2.0-13build1 amd64 [installed,automatic]
+libsoup-2.4-1/plucky-updates,plucky-security,now 2.74.3-10ubuntu0.4 amd64 [installed,automatic]
+libsoup-3.0-0/plucky-updates,plucky-security,now 3.6.5-1ubuntu0.2 amd64 [installed,automatic]
+libsoup-3.0-common/plucky-updates,plucky-security,now 3.6.5-1ubuntu0.2 all [installed,automatic]
+libsoup2.4-common/plucky-updates,plucky-security,now 2.74.3-10ubuntu0.4 all [installed,automatic]
+libsource-highlight-common/plucky,now 3.1.9-4.3build1 all [installed,automatic]
+libsource-highlight4t64/plucky,now 3.1.9-4.3build1 amd64 [installed,automatic]
+libspa-0.2-bluetooth/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+libspa-0.2-modules/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+libspeechd-module0/plucky,now 0.12.0-2ubuntu2 amd64 [installed,automatic]
+libspeechd2/plucky,now 0.12.0-2ubuntu2 amd64 [installed,automatic]
+libspeex1/plucky,now 1.2.1-3 amd64 [installed,automatic]
+libspeexdsp1/plucky,now 1.2.1-3 amd64 [installed,automatic]
+libspelling-1-2/plucky,now 0.4.7-1 amd64 [installed,automatic]
+libspelling-common/plucky,now 0.4.7-1 all [installed,automatic]
+libsqlite3-0/plucky-updates,plucky-security,now 3.46.1-3ubuntu0.3 amd64 [installed,automatic]
+libss2/plucky,now 1.47.2-1ubuntu1 amd64 [installed,automatic]
+libssh2-1t64/plucky,now 1.11.1-1 amd64 [installed,automatic]
+libssl3t64/plucky-updates,plucky-security,now 3.4.1-1ubuntu4 amd64 [installed,automatic]
+libsss-certmap0/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+libsss-idmap0/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+libsss-nss-idmap0/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+libstartup-notification0/plucky,now 0.12-8 amd64 [installed,automatic]
+libstdc++6/plucky,now 15-20250404-0ubuntu1 amd64 [installed,automatic]
+libstemmer0d/plucky,now 2.2.0-4build1 amd64 [installed,automatic]
+libsysmetrics1/plucky,now 1.7.3ubuntu3 amd64 [installed,automatic]
+libsysprof-6-6/plucky,now 48.0-2 amd64 [installed,automatic]
+libsysprof-6-modules/plucky,now 48.0-2 amd64 [installed,automatic]
+libsystemd-shared/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+libsystemd0/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+libtag2/plucky,now 2.0.2-2 amd64 [installed,automatic]
+libtalloc2/plucky-updates,plucky-security,now 2:2.4.2+samba4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+libtasn1-6/plucky,now 4.20.0-2 amd64 [installed,automatic]
+libtcl8.6/plucky,now 8.6.16+dfsg-1 amd64 [installed,automatic]
+libtdb1/plucky-updates,plucky-security,now 2:1.4.12+samba4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+libteamdctl0/plucky,now 1.31-1build3 amd64 [installed,automatic]
+libtevent0t64/plucky-updates,plucky-security,now 2:0.16.1+samba4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+libtext-charwidth-perl/plucky,now 0.04-11build4 amd64 [installed,automatic]
+libtext-iconv-perl/plucky,now 1.7-8build4 amd64 [installed,automatic]
+libtext-wrapi18n-perl/plucky,now 0.06-10 all [installed,automatic]
+libthai-data/plucky,now 0.1.29-2build1 all [installed,automatic]
+libthai0/plucky,now 0.1.29-2build1 amd64 [installed,automatic]
+libtheora0/plucky,now 1.2.0~alpha1+dfsg-6 amd64 [installed,automatic]
+libtheoradec1/plucky,now 1.2.0~alpha1+dfsg-6 amd64 [installed,automatic]
+libtheoraenc1/plucky,now 1.2.0~alpha1+dfsg-6 amd64 [installed,automatic]
+libtie-ixhash-perl/plucky,now 1.23-4 all [installed,automatic]
+libtiff6/plucky-updates,plucky-security,now 4.5.1+git230720-4ubuntu4.2 amd64 [installed,automatic]
+libtimedate-perl/plucky,now 2.3300-2 all [installed,automatic]
+libtinfo6/plucky,now 6.5+20250216-2 amd64 [installed,automatic]
+libtinysparql-3.0-0/plucky,now 3.8.2-7 amd64 [installed,automatic]
+libtirpc-common/plucky,now 1.3.4+ds-1.3 all [installed,automatic]
+libtirpc3t64/plucky,now 1.3.4+ds-1.3 amd64 [installed,automatic]
+libtotem-plparser-common/plucky,now 3.26.6-2 all [installed,automatic]
+libtotem-plparser18/plucky,now 3.26.6-2 amd64 [installed,automatic]
+libtraceevent1-plugin/plucky,now 1:1.8.4-2 amd64 [installed,automatic]
+libtraceevent1/plucky,now 1:1.8.4-2 amd64 [installed,automatic]
+libtracefs1/plucky,now 1.8.0-1ubuntu1 amd64 [installed,automatic]
+libtry-tiny-perl/plucky,now 0.32-1 all [installed,automatic]
+libtss2-esys-3.0.2-0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-mu-4.0.1-0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-rc0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-sys1t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tcti-cmd0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tcti-device0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tcti-libtpms0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tcti-mssim0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tcti-spi-helper0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tcti-swtpm0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtss2-tctildr0t64/plucky,now 4.1.3-1.2ubuntu1 amd64 [installed,automatic]
+libtwolame0/plucky,now 0.4.0-2build3 amd64 [installed,automatic]
+libu2f-udev/plucky,now 1.1.10-3.2 all [installed,automatic]
+libuchardet0/plucky,now 0.0.8-1build1 amd64 [installed,automatic]
+libudev1/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+libudisks2-0/plucky-updates,plucky-security,now 2.10.1-11ubuntu2.3 amd64 [installed,automatic]
+libunistring5/plucky,now 1.3-1 amd64 [installed,automatic]
+libunity-protocol-private0/plucky,now 7.1.4+19.04.20190319-6.1 amd64 [installed,automatic]
+libunity-scopes-json-def-desktop/plucky,now 7.1.4+19.04.20190319-6.1 all [installed,automatic]
+libunity9/plucky,now 7.1.4+19.04.20190319-6.1 amd64 [installed,automatic]
+libunwind8/plucky,now 1.6.2-3.1 amd64 [installed,automatic]
+libupower-glib3/plucky,now 1.90.7-1build1 amd64 [installed,automatic]
+liburcu8t64/plucky,now 0.15.1-1 amd64 [installed,automatic]
+liburi-perl/plucky,now 5.30-1 all [installed,automatic]
+liburing2/plucky,now 2.9-1 amd64 [installed,automatic]
+libusb-1.0-0/plucky,now 2:1.0.27-2 amd64 [installed,automatic]
+libusbmuxd-2.0-7/plucky,now 2.1.0-1build1 amd64 [installed,automatic]
+libuuid1/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+libuv1t64/plucky,now 1.50.0-2ubuntu1 amd64 [installed,automatic]
+libv4l-0t64/plucky,now 1.28.1-1 amd64 [installed,automatic]
+libv4lconvert0t64/plucky,now 1.28.1-1 amd64 [installed,automatic]
+libva-drm2/plucky,now 2.22.0-3ubuntu2 amd64 [installed,automatic]
+libva2/plucky,now 2.22.0-3ubuntu2 amd64 [installed,automatic]
+libvisual-0.4-0/plucky,now 0.4.2-2build1 amd64 [installed,automatic]
+libvolume-key1/plucky,now 0.3.12-9 amd64 [installed,automatic]
+libvorbis0a/plucky,now 1.3.7-2 amd64 [installed,automatic]
+libvorbisenc2/plucky,now 1.3.7-2 amd64 [installed,automatic]
+libvorbisfile3/plucky,now 1.3.7-2 amd64 [installed,automatic]
+libvpx9/plucky-updates,plucky-security,now 1.15.0-2ubuntu0.1 amd64 [installed,automatic]
+libvte-2.91-0/plucky,now 0.80.0-1 amd64 [installed,automatic]
+libvte-2.91-common/plucky,now 0.80.0-1 amd64 [installed,automatic]
+libvulkan1/plucky,now 1.4.304.0-1 amd64 [installed,automatic]
+libwacom-common/plucky,now 2.14.0-1 all [installed,automatic]
+libwacom9/plucky,now 2.14.0-1 amd64 [installed,automatic]
+libwavpack1/plucky,now 5.8.1-1 amd64 [installed,automatic]
+libwayland-client0/plucky,now 1.23.1-3 amd64 [installed,automatic]
+libwayland-cursor0/plucky,now 1.23.1-3 amd64 [installed,automatic]
+libwayland-egl1/plucky,now 1.23.1-3 amd64 [installed,automatic]
+libwayland-server0/plucky,now 1.23.1-3 amd64 [installed,automatic]
+libwbclient0/plucky-updates,plucky-security,now 2:4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+libwebkit2gtk-4.1-0/plucky-updates,plucky-security,now 2.48.7-0ubuntu0.25.04.2 amd64 [installed,automatic]
+libwebkitgtk-6.0-4/plucky-updates,plucky-security,now 2.48.7-0ubuntu0.25.04.2 amd64 [installed,automatic]
+libwebp7/plucky,now 1.5.0-0.1 amd64 [installed,automatic]
+libwebpdemux2/plucky,now 1.5.0-0.1 amd64 [installed,automatic]
+libwebpmux3/plucky,now 1.5.0-0.1 amd64 [installed,automatic]
+libwebrtc-audio-processing-1-3/plucky,now 1.3-3 amd64 [installed,automatic]
+libwhoopsie-preferences0/plucky,now 23build3 amd64 [installed,automatic]
+libwhoopsie0/plucky,now 0.2.79 amd64 [installed,automatic]
+libwinpr3-3/plucky-updates,plucky-security,now 3.14.0+dfsg-1ubuntu1.1 amd64 [installed,automatic]
+libwireplumber-0.5-0/plucky,now 0.5.8-1 amd64 [installed,automatic]
+libwmf-0.2-7-gtk/plucky,now 0.2.13-1.1build3 amd64 [installed,automatic]
+libwmf-0.2-7/plucky,now 0.2.13-1.1build3 amd64 [installed,automatic]
+libwmf0.2-7-gtk/plucky,now 0.2.13-1.1build3 amd64 [installed,automatic]
+libwmflite-0.2-7/plucky,now 0.2.13-1.1build3 amd64 [installed,automatic]
+libwnck-3-0/plucky,now 43.2-1 amd64 [installed,automatic]
+libwnck-3-common/plucky,now 43.2-1 all [installed,automatic]
+libwoff1/plucky,now 1.0.2-2build1 amd64 [installed,automatic]
+libwrap0/plucky,now 7.6.q-36 amd64 [installed,automatic]
+libwww-perl/plucky,now 6.78-1 all [installed,automatic]
+libwww-robotrules-perl/plucky,now 6.02-1 all [installed,automatic]
+libx11-6/plucky,now 2:1.8.10-2 amd64 [installed,automatic]
+libx11-data/plucky,now 2:1.8.10-2 all [installed,automatic]
+libx11-protocol-perl/plucky,now 0.56-9 all [installed,automatic]
+libx11-xcb1/plucky,now 2:1.8.10-2 amd64 [installed,automatic]
+libxatracker2/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+libxau6/plucky,now 1:1.0.11-1 amd64 [installed,automatic]
+libxaw7/plucky,now 2:1.0.16-1 amd64 [installed,automatic]
+libxcb-damage0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-dri2-0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-dri3-0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-glx0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-icccm4/plucky,now 0.4.2-1 amd64 [installed,automatic]
+libxcb-image0/plucky,now 0.4.0-2build1 amd64 [installed,automatic]
+libxcb-keysyms1/plucky,now 0.4.1-1 amd64 [installed,automatic]
+libxcb-present0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-randr0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-render-util0/plucky,now 0.3.10-1 amd64 [installed,automatic]
+libxcb-render0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-res0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-shape0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-shm0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-sync1/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-util1/plucky,now 0.4.1-1 amd64 [installed,automatic]
+libxcb-xfixes0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-xkb1/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb-xv0/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcb1/plucky,now 1.17.0-2 amd64 [installed,automatic]
+libxcomposite1/plucky,now 1:0.4.6-1 amd64 [installed,automatic]
+libxcursor1/plucky,now 1:1.2.3-1 amd64 [installed,automatic]
+libxcvt0/plucky,now 0.1.3-1 amd64 [installed,automatic]
+libxdamage1/plucky,now 1:1.1.6-1build1 amd64 [installed,automatic]
+libxdmcp6/plucky,now 1:1.1.5-1 amd64 [installed,automatic]
+libxext6/plucky,now 2:1.3.4-1build2 amd64 [installed,automatic]
+libxfixes3/plucky,now 1:6.0.0-2build1 amd64 [installed,automatic]
+libxfont2/plucky,now 1:2.0.6-1build1 amd64 [installed,automatic]
+libxft2/plucky,now 2.3.6-1build1 amd64 [installed,automatic]
+libxi6/plucky,now 2:1.8.2-1 amd64 [installed,automatic]
+libxinerama1/plucky,now 2:1.1.4-3build1 amd64 [installed,automatic]
+libxkbcommon-x11-0/plucky,now 1.7.0-2 amd64 [installed,automatic]
+libxkbcommon0/plucky,now 1.7.0-2 amd64 [installed,automatic]
+libxkbfile1/plucky,now 1:1.1.0-1build4 amd64 [installed,automatic]
+libxkbregistry0/plucky,now 1.7.0-2 amd64 [installed,automatic]
+libxml-parser-perl/plucky,now 2.47-1build4 amd64 [installed,automatic]
+libxml-twig-perl/plucky,now 1:3.52-3 all [installed,automatic]
+libxml-xpathengine-perl/plucky,now 0.14-2 all [installed,automatic]
+libxml2/plucky-updates,plucky-security,now 2.12.7+dfsg+really2.9.14-0.4ubuntu0.3 amd64 [installed,automatic]
+libxmlb2/plucky,now 0.3.22-1 amd64 [installed,automatic]
+libxmu6/plucky,now 2:1.1.3-3build2 amd64 [installed,automatic]
+libxmuu1/plucky,now 2:1.1.3-3build2 amd64 [installed,automatic]
+libxpm4/plucky,now 1:3.5.17-1build2 amd64 [installed,automatic]
+libxrandr2/plucky,now 2:1.5.4-1 amd64 [installed,automatic]
+libxrender1/plucky,now 1:0.9.10-1.1build1 amd64 [installed,automatic]
+libxres1/plucky,now 2:1.2.1-1build1 amd64 [installed,automatic]
+libxshmfence1/plucky,now 1.3-1build5 amd64 [installed,automatic]
+libxslt1.1/plucky,now 1.1.39-0exp1ubuntu4 amd64 [installed,automatic]
+libxss1/plucky,now 1:1.2.3-1build3 amd64 [installed,automatic]
+libxt6t64/plucky,now 1:1.2.1-1.2build1 amd64 [installed,automatic]
+libxtables12/plucky,now 1.8.11-2ubuntu1 amd64 [installed,automatic]
+libxtst6/plucky,now 2:1.2.5-1 amd64 [installed,automatic]
+libxv1/plucky,now 2:1.0.11-1.1build1 amd64 [installed,automatic]
+libxvmc1/plucky,now 2:1.0.12-2build3 amd64 [installed,automatic]
+libxxf86dga1/plucky,now 2:1.1.5-1build1 amd64 [installed,automatic]
+libxxf86vm1/plucky,now 1:1.1.4-1build4 amd64 [installed,automatic]
+libxxhash0/plucky,now 0.8.3-2 amd64 [installed,automatic]
+libyaml-0-2/plucky,now 0.2.5-2 amd64 [installed,automatic]
+libyelp0/plucky-updates,plucky-security,now 42.2-2ubuntu0.1 amd64 [installed,automatic]
+libzstd1/plucky,now 1.5.6+dfsg-2 amd64 [installed,automatic]
+linux-base/plucky,now 4.10.1ubuntu2 all [installed,automatic]
+linux-firmware/plucky-updates,plucky-security,now 20250317.git1d4c88ee-0ubuntu1.9 amd64 [installed,automatic]
+linux-generic-hwe-24.04/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed]
+linux-headers-6.14.0-15-generic/plucky,now 6.14.0-15.15 amd64 [installed,auto-removable]
+linux-headers-6.14.0-15/plucky,now 6.14.0-15.15 all [installed,auto-removable]
+linux-headers-6.14.0-33-generic/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-headers-6.14.0-33/plucky-updates,plucky-security,now 6.14.0-33.33 all [installed,automatic]
+linux-headers-generic-hwe-24.04/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-image-6.14.0-33-generic/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-image-generic-hwe-24.04/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-libc-dev/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-modules-6.14.0-15-generic/plucky,now 6.14.0-15.15 amd64 [installed,auto-removable]
+linux-modules-6.14.0-33-generic/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-modules-extra-6.14.0-15-generic/plucky,now 6.14.0-15.15 amd64 [installed,auto-removable]
+linux-modules-extra-6.14.0-33-generic/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-perf/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-sound-base/plucky,now 1.0.25+dfsg-0ubuntu8 all [installed,automatic]
+linux-sysctl-defaults/plucky,now 4.10.1ubuntu2 all [installed,automatic]
+linux-tools-6.14.0-15-generic/plucky,now 6.14.0-15.15 amd64 [installed,auto-removable]
+linux-tools-6.14.0-15/plucky,now 6.14.0-15.15 amd64 [installed,auto-removable]
+linux-tools-6.14.0-33-generic/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-tools-6.14.0-33/plucky-updates,plucky-security,now 6.14.0-33.33 amd64 [installed,automatic]
+linux-tools-common/plucky-updates,plucky-security,now 6.14.0-33.33 all [installed,automatic]
+locales/plucky-updates,plucky-security,now 2.41-6ubuntu1.2 all [installed,automatic]
+login.defs/plucky,now 1:4.16.0-7ubuntu1 all [installed,automatic]
+login/plucky,now 1:4.16.0-2+really2.40.2-14ubuntu1 amd64 [installed,upgradable to: 1:4.16.0-2+really2.40.2-14ubuntu1.1]
+logrotate/plucky,now 3.22.0-1 amd64 [installed,automatic]
+logsave/plucky,now 1.47.2-1ubuntu1 amd64 [installed,automatic]
+lsb-release/plucky,now 12.1-1 all [installed,automatic]
+lshw/plucky,now 02.19.git.2021.06.19.996aaad9c7-2.1ubuntu1 amd64 [installed,automatic]
+lsof/plucky,now 4.99.4+dfsg-2 amd64 [installed,automatic]
+luit/plucky,now 2.0.20240910-1 amd64 [installed,automatic]
+m17n-db/plucky,now 1.8.9-1 all [installed]
+makedumpfile/plucky,now 1:1.7.6-1 amd64 [installed,automatic]
+man-db/plucky,now 2.13.0-1 amd64 [installed,automatic]
+manpages-dev/plucky,now 6.9.1-1 all [installed,automatic]
+manpages/plucky,now 6.9.1-1 all [installed,automatic]
+mawk/plucky,now 1.3.4.20250131-1 amd64 [installed,automatic]
+media-types/plucky,now 13.0.0 all [installed,automatic]
+memtest86+/plucky,now 7.20-1 amd64 [installed,automatic]
+mesa-libgallium/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+mesa-vulkan-drivers/plucky,now 25.0.3-1ubuntu2 amd64 [installed,upgradable to: 25.0.7-0ubuntu0.25.04.2]
+mobile-broadband-provider-info/plucky,now 20240407-1 all [installed,automatic]
+modemmanager/plucky,now 1.23.4-0ubuntu3 amd64 [installed,automatic]
+mount/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+mousetweaks/plucky,now 3.32.0-5 amd64 [installed,automatic]
+mscompress/plucky,now 0.4-10build1 amd64 [installed,automatic]
+mtr-tiny/plucky,now 0.95-1.1ubuntu1 amd64 [installed,automatic]
+mutter-common-bin/plucky,now 48.1-1ubuntu3 amd64 [installed,upgradable to: 48.1-1ubuntu3.1]
+mutter-common/plucky,now 48.1-1ubuntu3 all [installed,upgradable to: 48.1-1ubuntu3.1]
+nano/plucky,now 8.3-1 amd64 [installed,automatic]
+nautilus-data/plucky,now 1:48.0-1ubuntu1 all [installed,automatic]
+nautilus-extension-gnome-terminal/plucky,now 3.56.0-1ubuntu1 amd64 [installed,automatic]
+nautilus-sendto/plucky,now 3.8.6-7build2 amd64 [installed,automatic]
+nautilus/plucky,now 1:48.0-1ubuntu1 amd64 [installed,automatic]
+ncurses-base/plucky,now 6.5+20250216-2 all [installed]
+ncurses-bin/plucky,now 6.5+20250216-2 amd64 [installed]
+netbase/plucky,now 6.4 all [installed,automatic]
+netcat-openbsd/plucky,now 1.228-1 amd64 [installed,automatic]
+netplan-generator/plucky,now 1.1.2-2ubuntu1 amd64 [installed,upgradable to: 1.1.2-2ubuntu1.1]
+netplan.io/plucky,now 1.1.2-2ubuntu1 amd64 [installed,upgradable to: 1.1.2-2ubuntu1.1]
+network-manager-config-connectivity-ubuntu/plucky,now 1.52.0-1ubuntu1 all [installed,automatic]
+network-manager-openvpn-gnome/plucky,now 1.12.0-2 amd64 [installed,automatic]
+network-manager-openvpn/plucky,now 1.12.0-2 amd64 [installed,automatic]
+network-manager-pptp-gnome/plucky,now 1.2.12-4build2 amd64 [installed,automatic]
+network-manager-pptp/plucky,now 1.2.12-4build2 amd64 [installed,automatic]
+network-manager/plucky,now 1.52.0-1ubuntu1 amd64 [installed,automatic]
+networkd-dispatcher/plucky,now 2.2.4-1.1 all [installed,automatic]
+nftables/plucky,now 1.1.1-1build1 amd64 [installed,automatic]
+nm-connection-editor/plucky,now 1.36.0-3ubuntu2 amd64 [installed,automatic]
+ntfs-3g/plucky,now 1:2022.10.3-5 amd64 [installed,automatic]
+numactl/plucky,now 2.0.18-1build1 amd64 [installed,automatic]
+openprinting-ppds/plucky,now 20250217-0ubuntu1 all [installed,automatic]
+openssh-client/plucky-security,now 1:9.9p1-3ubuntu3.1 amd64 [installed,upgradable to: 1:9.9p1-3ubuntu3.2]
+openssl-provider-legacy/plucky-updates,plucky-security,now 3.4.1-1ubuntu4 amd64 [installed,automatic]
+openssl/plucky-updates,plucky-security,now 3.4.1-1ubuntu4 amd64 [installed,automatic]
+openvpn/plucky,now 2.6.13-1ubuntu3 amd64 [installed,upgradable to: 2.6.14-0ubuntu0.25.04.2]
+orca/plucky,now 48.0-1ubuntu1 all [installed,automatic]
+os-prober/plucky,now 1.83ubuntu2 amd64 [installed,automatic]
+p11-kit-modules/plucky,now 0.25.5-2ubuntu3 amd64 [installed,automatic]
+p11-kit/plucky,now 0.25.5-2ubuntu3 amd64 [installed,automatic]
+packagekit-tools/plucky,now 1.3.0-3build1 amd64 [installed,automatic]
+packagekit/plucky,now 1.3.0-3build1 amd64 [installed,automatic]
+papers-common/plucky,now 48.0-1ubuntu1 all [installed,automatic]
+papers/plucky,now 48.0-1ubuntu1 amd64 [installed,automatic]
+parted/plucky,now 3.6-5 amd64 [installed,automatic]
+passwd/plucky,now 1:4.16.0-7ubuntu1 amd64 [installed,automatic]
+patch/plucky,now 2.7.6-7build3 amd64 [installed,automatic]
+pci.ids/plucky,now 0.0~2025.03.09-1 all [installed,automatic]
+pciutils/plucky,now 1:3.13.0-2 amd64 [installed,automatic]
+pcmciautils/plucky,now 018-18 amd64 [installed,automatic]
+perl-base/plucky-updates,plucky-security,now 5.40.1-2ubuntu0.2 amd64 [installed,automatic]
+perl-modules-5.40/plucky-updates,plucky-security,now 5.40.1-2ubuntu0.2 all [installed,automatic]
+perl-openssl-defaults/plucky,now 7build3 amd64 [installed,automatic]
+perl/plucky-updates,plucky-security,now 5.40.1-2ubuntu0.2 amd64 [installed,automatic]
+pinentry-curses/plucky,now 1.3.1-2ubuntu3 amd64 [installed,automatic]
+pinentry-gnome3/plucky,now 1.3.1-2ubuntu3 amd64 [installed,automatic]
+pipewire-alsa/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+pipewire-audio/plucky,now 1.2.7-1ubuntu5 all [installed,upgradable to: 1.2.7-1ubuntu5.1]
+pipewire-bin/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+pipewire-pulse/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+pipewire/plucky,now 1.2.7-1ubuntu5 amd64 [installed,upgradable to: 1.2.7-1ubuntu5.1]
+pkexec/plucky,now 126-2 amd64 [installed,automatic]
+plymouth-label/plucky,now 24.004.60-2ubuntu7 amd64 [installed,automatic]
+plymouth-theme-spinner/plucky,now 24.004.60-2ubuntu7 amd64 [installed,automatic]
+plymouth-theme-ubuntu-text/plucky,now 24.004.60-2ubuntu7 amd64 [installed,automatic]
+plymouth/plucky,now 24.004.60-2ubuntu7 amd64 [installed,automatic]
+pnp.ids/plucky,now 0.393-3 all [installed,automatic]
+policykit-desktop-privileges/plucky,now 0.22 all [installed,automatic]
+polkitd/plucky,now 126-2 amd64 [installed,automatic]
+poppler-data/plucky,now 0.4.12-1 all [installed,automatic]
+poppler-utils/plucky-updates,plucky-security,now 25.03.0-3ubuntu1.3 amd64 [installed,automatic]
+power-profiles-daemon/plucky,now 0.30-1 amd64 [installed,automatic]
+powermgmt-base/plucky,now 1.38 all [installed,upgradable to: 1.38ubuntu1~25.04.1]
+ppp/plucky,now 2.5.2-1+1 amd64 [installed,automatic]
+pptp-linux/plucky,now 1.10.0-2 amd64 [installed,automatic]
+printer-driver-brlaser/plucky,now 6.2.7-0ubuntu1 amd64 [installed,automatic]
+printer-driver-c2esp/plucky,now 27-11ubuntu7 amd64 [installed,automatic]
+printer-driver-foo2zjs-common/plucky,now 20200505dfsg0-2ubuntu6 all [installed,automatic]
+printer-driver-foo2zjs/plucky,now 20200505dfsg0-2ubuntu6 amd64 [installed,automatic]
+printer-driver-hpcups/plucky,now 3.24.4+dfsg0-0ubuntu5 amd64 [installed,automatic]
+printer-driver-m2300w/plucky,now 0.51-15build2 amd64 [installed,automatic]
+printer-driver-min12xxw/plucky,now 0.0.9-11build3 amd64 [installed,automatic]
+printer-driver-pnm2ppa/plucky,now 1.13+nondbs-0ubuntu10 amd64 [installed,automatic]
+printer-driver-postscript-hp/plucky,now 3.24.4+dfsg0-0ubuntu5 amd64 [installed,automatic]
+printer-driver-ptouch/plucky,now 1.7-1build2 amd64 [installed,automatic]
+printer-driver-pxljr/plucky,now 1.4+repack0-6build2 amd64 [installed,automatic]
+printer-driver-sag-gdi/plucky,now 0.1-8 all [installed,automatic]
+printer-driver-splix/plucky,now 2.0.1-1 amd64 [installed,automatic]
+procps/plucky,now 2:4.0.4-7ubuntu1 amd64 [installed,automatic]
+psmisc/plucky,now 23.7-2 amd64 [installed,automatic]
+publicsuffix/plucky,now 20250108.1153-0.1 all [installed,automatic]
+python-apt-common/plucky,now 3.0.0 all [installed,automatic]
+python-babel-localedata/plucky,now 2.17.0-1 all [installed,automatic]
+python3-apport/plucky-updates,plucky-security,now 2.32.0-0ubuntu5.3 all [installed,automatic]
+python3-apt/plucky,now 3.0.0 amd64 [installed,automatic]
+python3-aptdaemon.gtk3widgets/plucky,now 2.0.2 all [installed,automatic]
+python3-aptdaemon/plucky,now 2.0.2 all [installed,automatic]
+python3-attr/plucky,now 25.1.0-1 all [installed,automatic]
+python3-autocommand/plucky,now 2.2.2-3 all [installed,automatic]
+python3-babel/plucky,now 2.17.0-1 all [installed,automatic]
+python3-bcrypt/plucky,now 4.2.0-2.1build1 amd64 [installed,automatic]
+python3-blinker/plucky,now 1.9.0-1 all [installed,automatic]
+python3-bpfcc/plucky,now 0.30.0+ds-1ubuntu5 all [installed,automatic]
+python3-brlapi/plucky,now 6.7-1ubuntu3 amd64 [installed,automatic]
+python3-cairo/plucky,now 1.27.0-2 amd64 [installed,automatic]
+python3-certifi/plucky,now 2025.1.31+ds-1 all [installed,automatic]
+python3-cffi-backend/plucky,now 1.17.1-2build2 amd64 [installed,automatic]
+python3-chardet/plucky,now 5.2.0+dfsg-2 all [installed,automatic]
+python3-click/plucky,now 8.2.0+0.really.8.1.8-1 all [installed,automatic]
+python3-commandnotfound/plucky,now 23.04.0 all [installed,automatic]
+python3-configobj/plucky,now 5.0.9-1 all [installed,automatic]
+python3-cryptography/plucky,now 43.0.0-1ubuntu1 amd64 [installed,automatic]
+python3-cups/plucky,now 2.0.4-2build2 amd64 [installed,automatic]
+python3-cupshelpers/plucky,now 1.5.18-4ubuntu1 all [installed,automatic]
+python3-dateutil/plucky,now 2.9.0-4 all [installed,automatic]
+python3-dbus/plucky,now 1.3.2-5build5 amd64 [installed,automatic]
+python3-debconf/plucky,now 1.5.87ubuntu1 all [installed,automatic]
+python3-debian/plucky,now 1.0.1ubuntu1 all [installed,automatic]
+python3-defer/plucky,now 1.0.6-2.1ubuntu1 all [installed,automatic]
+python3-distro-info/plucky,now 1.13 all [installed,automatic]
+python3-distro/plucky,now 1.9.0-1 all [installed,automatic]
+python3-distupgrade/plucky,now 1:25.04.14 all [installed,upgradable to: 1:25.04.18]
+python3-gdbm/plucky,now 3.13.3-1 amd64 [installed,automatic]
+python3-gi/plucky,now 3.50.0-4build1 amd64 [installed,automatic]
+python3-httplib2/plucky,now 0.22.0-1 all [installed,automatic]
+python3-ibus-1.0/plucky,now 1.5.32~rc2-1 all [installed,automatic]
+python3-idna/plucky,now 3.10-1 all [installed,automatic]
+python3-inflect/plucky,now 7.3.1-2 all [installed,automatic]
+python3-jaraco.context/plucky,now 6.0.1-1 all [installed,automatic]
+python3-jaraco.functools/plucky,now 4.1.0-1 all [installed,automatic]
+python3-jinja2/plucky,now 3.1.5-2ubuntu1 all [installed,automatic]
+python3-json-pointer/plucky,now 2.4-3 all [installed,automatic]
+python3-jsonpatch/plucky,now 1.32-5 all [installed,automatic]
+python3-jsonschema-specifications/plucky,now 2023.12.1-2 all [installed,automatic]
+python3-jsonschema/plucky,now 4.19.2-6ubuntu1 all [installed,automatic]
+python3-jwt/plucky,now 2.10.1-2 all [installed,automatic]
+python3-launchpadlib/plucky,now 2.1.0-1 all [installed,automatic]
+python3-lazr.restfulclient/plucky,now 0.14.6-2 all [installed,automatic]
+python3-lazr.uri/plucky,now 1.0.6-6 all [installed,automatic]
+python3-louis/plucky,now 3.32.0-1 all [installed,automatic]
+python3-markdown-it/plucky,now 3.0.0-2 all [installed,automatic]
+python3-markupsafe/plucky,now 2.1.5-1build4 amd64 [installed,automatic]
+python3-mdurl/plucky,now 0.1.2-1 all [installed,automatic]
+python3-minimal/plucky,now 3.13.3-1 amd64 [installed,automatic]
+python3-more-itertools/plucky,now 10.6.0-1 all [installed,automatic]
+python3-netaddr/plucky,now 1.3.0-1 all [installed,automatic]
+python3-netifaces/plucky,now 0.11.0-2build5 amd64 [installed]
+python3-netplan/plucky,now 1.1.2-2ubuntu1 amd64 [installed,upgradable to: 1.1.2-2ubuntu1.1]
+python3-oauthlib/plucky,now 3.2.2-3 all [installed,automatic]
+python3-olefile/plucky,now 0.47-1 all [installed,automatic]
+python3-passlib/plucky,now 1.7.4-6ubuntu1 all [installed,automatic]
+python3-pexpect/plucky,now 4.9-3 all [installed,automatic]
+python3-pil/plucky,now 11.1.0-5build1 amd64 [installed,automatic]
+python3-pkg-resources/plucky-updates,plucky-security,now 75.8.0-1ubuntu1 all [installed,automatic]
+python3-problem-report/plucky-updates,plucky-security,now 2.32.0-0ubuntu5.3 all [installed,automatic]
+python3-ptyprocess/plucky,now 0.7.0-6 all [installed,automatic]
+python3-pygments/plucky,now 2.18.0+dfsg-2 all [installed,automatic]
+python3-pyparsing/plucky,now 3.1.2-1 all [installed,automatic]
+python3-referencing/plucky,now 0.35.1-2ubuntu1 all [installed,automatic]
+python3-requests/plucky-updates,plucky-security,now 2.32.3+dfsg-4ubuntu1.1 all [installed,automatic]
+python3-rich/plucky,now 13.9.4-1 all [installed,automatic]
+python3-rpds-py/plucky,now 0.21.0-2ubuntu2 amd64 [installed,automatic]
+python3-serial/plucky,now 3.5-2 all [installed,automatic]
+python3-software-properties/plucky,now 0.111 all [installed,upgradable to: 0.111.1]
+python3-speechd/plucky,now 0.12.0-2ubuntu2 all [installed,automatic]
+python3-sss/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+python3-systemd/plucky,now 235-1build6 amd64 [installed,automatic]
+python3-typeguard/plucky,now 4.4.2-1 all [installed,automatic]
+python3-typing-extensions/plucky,now 4.12.2-2 all [installed,automatic]
+python3-update-manager/plucky,now 1:25.04.4 all [installed,upgradable to: 1:25.04.5]
+python3-urllib3/plucky-updates,plucky-security,now 2.3.0-2ubuntu0.1 all [installed,automatic]
+python3-wadllib/plucky,now 2.0.0-2 all [installed,automatic]
+python3-xdg/plucky,now 0.28-2 all [installed,automatic]
+python3-xkit/plucky,now 0.5.0ubuntu7 all [installed,automatic]
+python3-yaml/plucky,now 6.0.2-1build2 amd64 [installed,automatic]
+python3.13-gdbm/plucky-updates,plucky-security,now 3.13.3-1ubuntu0.3 amd64 [installed,automatic]
+python3.13-minimal/plucky-updates,plucky-security,now 3.13.3-1ubuntu0.3 amd64 [installed,automatic]
+python3.13/plucky-updates,plucky-security,now 3.13.3-1ubuntu0.3 amd64 [installed,automatic]
+python3/plucky,now 3.13.3-1 amd64 [installed,automatic]
+readline-common/plucky,now 8.2-6 all [installed,automatic]
+rfkill/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+rpcsvc-proto/plucky,now 1.4.2-0ubuntu7 amd64 [installed,automatic]
+rsync/plucky,now 3.4.1+ds1-3 amd64 [installed,automatic]
+rsyslog/plucky,now 8.2412.0-2ubuntu2 amd64 [installed,automatic]
+rtkit/plucky,now 0.13-5.1 amd64 [installed,automatic]
+rygel/plucky,now 0.44.1-2ubuntu1 amd64 [installed,automatic]
+samba-libs/plucky-updates,plucky-security,now 2:4.21.4+dfsg-1ubuntu3.5 amd64 [installed,automatic]
+sane-airscan/plucky,now 0.99.32-0ubuntu1 amd64 [installed,automatic]
+sane-utils/plucky,now 1.3.1-3 amd64 [installed,automatic]
+sbsigntool/plucky,now 0.9.4-3.1ubuntu7 amd64 [installed,automatic]
+seahorse/plucky,now 47.0.1-1 amd64 [installed,automatic]
+secureboot-db/plucky,now 1.9build1 amd64 [installed,automatic]
+sed/plucky,now 4.9-2build1 amd64 [installed,automatic]
+sensible-utils/plucky,now 0.0.24 all [installed,automatic]
+session-migration/plucky,now 0.3.9build1 amd64 [installed,automatic]
+sgml-base/plucky,now 1.31 all [installed,automatic]
+sgml-data/plucky,now 2.0.11+nmu1 all [installed,automatic]
+shared-mime-info/plucky,now 2.4-5build1 amd64 [installed,automatic]
+snapd/plucky,now 2.67.1+25.04 amd64 [installed,upgradable to: 2.71+ubuntu25.04]
+software-properties-common/plucky,now 0.111 all [installed,upgradable to: 0.111.1]
+software-properties-gtk/plucky,now 0.111 all [installed,upgradable to: 0.111.1]
+sound-icons/plucky,now 0.1-8 all [installed,automatic]
+sound-theme-freedesktop/plucky,now 0.8-3ubuntu1 all [installed,automatic]
+speech-dispatcher-audio-plugins/plucky,now 0.12.0-2ubuntu2 amd64 [installed,automatic]
+speech-dispatcher-espeak-ng/plucky,now 0.12.0-2ubuntu2 amd64 [installed,automatic]
+speech-dispatcher/plucky,now 0.12.0-2ubuntu2 amd64 [installed,automatic]
+spice-vdagent/plucky,now 0.22.1-4.1 amd64 [installed,automatic]
+squashfs-tools/plucky,now 1:4.6.1-1build1 amd64 [installed,automatic]
+ssl-cert/plucky,now 1.1.3ubuntu1 all [installed,automatic]
+sssd-ad-common/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-ad/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-common/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-ipa/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-krb5-common/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-krb5/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-ldap/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd-proxy/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+sssd/plucky,now 2.10.1-2ubuntu4 amd64 [installed,upgradable to: 2.10.1-2ubuntu4.1]
+strace/plucky,now 6.14-0ubuntu1 amd64 [installed,automatic]
+sudo/plucky-updates,plucky-security,now 1.9.16p2-1ubuntu1.1 amd64 [installed,automatic]
+switcheroo-control/plucky,now 2.6-3 amd64 [installed,automatic]
+sysprof/plucky,now 48.0-2 amd64 [installed,automatic]
+sysstat/plucky,now 12.7.5-2ubuntu1 amd64 [installed,automatic]
+system-config-printer-common/plucky,now 1.5.18-4ubuntu1 all [installed,automatic]
+system-config-printer-udev/plucky,now 1.5.18-4ubuntu1 amd64 [installed,automatic]
+systemd-cryptsetup/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+systemd-hwe-hwdb/plucky,now 256.4.1 all [installed,upgradable to: 257.4.3]
+systemd-oomd/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+systemd-resolved/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+systemd-sysv/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+systemd-timesyncd/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+systemd/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+sysvinit-utils/plucky,now 3.14-1ubuntu1 amd64 [installed,automatic]
+tar/plucky,now 1.35+dfsg-3.1 amd64 [installed,automatic]
+tcl8.6/plucky,now 8.6.16+dfsg-1 amd64 [installed,automatic]
+tcl/plucky,now 8.6.14build1 amd64 [installed,automatic]
+tcpdump/plucky,now 4.99.4-3ubuntu4 amd64 [installed,upgradable to: 4.99.4-3ubuntu4.25.04.1]
+tecla/plucky,now 48.0.2-1 amd64 [installed,upgradable to: 48.0.2-1ubuntu0.1]
+telnet/plucky,now 0.17+2.5-6ubuntu1 all [installed,automatic]
+thermald/plucky,now 2.5.9-1 amd64 [installed,automatic]
+time/plucky,now 1.9-0.2build1 amd64 [installed,automatic]
+tinysparql/plucky,now 3.8.2-7 amd64 [installed,automatic]
+tnftp/plucky,now 20230507-2build3 amd64 [installed,automatic]
+tpm-udev/plucky,now 0.6+nmu1ubuntu1 all [installed,automatic]
+trace-cmd/plucky,now 3.2-1ubuntu2 amd64 [installed,automatic]
+tracker-extract/plucky,now 3.8.2-4 amd64 [installed,automatic]
+tzdata/plucky-updates,plucky-security,now 2025b-1ubuntu1.1 all [installed,automatic]
+ubuntu-advantage-desktop-daemon/plucky,now 1.13 amd64 [installed,automatic]
+ubuntu-desktop-minimal/plucky,now 1.549 amd64 [installed]
+ubuntu-docs/plucky,now 25.04.1 all [installed,automatic]
+ubuntu-drivers-common/plucky,now 1:0.10.2 amd64 [installed,upgradable to: 1:0.10.2.1]
+ubuntu-kernel-accessories/plucky,now 1.549 amd64 [installed,automatic]
+ubuntu-keyring/plucky,now 2023.11.28.1 all [installed,automatic]
+ubuntu-minimal/plucky,now 1.549 amd64 [installed]
+ubuntu-pro-client-l10n/plucky,now 35 amd64 [installed,upgradable to: 36ubuntu0~25.04]
+ubuntu-pro-client/plucky,now 35 amd64 [installed,upgradable to: 36ubuntu0~25.04]
+ubuntu-release-upgrader-core/plucky,now 1:25.04.14 all [installed,upgradable to: 1:25.04.18]
+ubuntu-release-upgrader-gtk/plucky,now 1:25.04.14 all [installed,upgradable to: 1:25.04.18]
+ubuntu-report/plucky,now 1.7.3ubuntu3 amd64 [installed,automatic]
+ubuntu-session-xsession/plucky,now 47.0.1-2ubuntu3 all [installed,automatic]
+ubuntu-session/plucky,now 47.0.1-2ubuntu3 all [installed,automatic]
+ubuntu-settings/plucky,now 24.10.3 all [installed,upgradable to: 24.10.3.1]
+ubuntu-standard/plucky,now 1.549 amd64 [installed]
+ubuntu-wallpapers-plucky/plucky,now 25.04.2 all [installed,automatic]
+ubuntu-wallpapers/plucky,now 25.04.2 all [installed]
+ucf/plucky,now 3.0050 all [installed,automatic]
+udev/plucky-security,now 257.4-1ubuntu3.1 amd64 [installed,upgradable to: 257.4-1ubuntu3.2]
+udisks2/plucky-updates,plucky-security,now 2.10.1-11ubuntu2.3 amd64 [installed,automatic]
+ufw/plucky,now 0.36.2-9 all [installed,automatic]
+unattended-upgrades/plucky,now 2.12ubuntu4 all [installed,automatic]
+unzip/plucky,now 6.0-28ubuntu6 amd64 [installed,automatic]
+update-inetd/plucky,now 4.53 all [installed,automatic]
+update-manager-core/plucky,now 1:25.04.4 all [installed,upgradable to: 1:25.04.5]
+update-manager/plucky,now 1:25.04.4 all [installed,upgradable to: 1:25.04.5]
+update-notifier-common/plucky,now 3.197 all [installed,automatic]
+update-notifier/plucky,now 3.197 amd64 [installed,automatic]
+upower/plucky,now 1.90.7-1build1 amd64 [installed,automatic]
+usb-modeswitch-data/plucky,now 20191128-7 all [installed,automatic]
+usb-modeswitch/plucky,now 2.6.1-4ubuntu1 amd64 [installed,automatic]
+usb.ids/plucky,now 2025.01.14-1 all [installed,automatic]
+usbmuxd/plucky,now 1.1.1-6 amd64 [installed,automatic]
+usbutils/plucky,now 1:018-1 amd64 [installed,automatic]
+util-linux/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+uuid-runtime/plucky,now 2.40.2-14ubuntu1 amd64 [installed,upgradable to: 2.40.2-14ubuntu1.1]
+vim-common/plucky-updates,plucky-security,now 2:9.1.0967-1ubuntu4.1 all [installed,automatic]
+vim-runtime/plucky-updates,plucky-security,now 2:9.1.0967-1ubuntu4.1 all [installed,automatic]
+vim-tiny/plucky-updates,plucky-security,now 2:9.1.0967-1ubuntu4.1 amd64 [installed,automatic]
+vim/plucky-updates,plucky-security,now 2:9.1.0967-1ubuntu4.1 amd64 [installed]
+wamerican/plucky,now 2020.12.07-4 all [installed,automatic]
+wbritish/plucky,now 2020.12.07-4 all [installed]
+webp-pixbuf-loader/plucky,now 0.2.7-1 amd64 [installed,automatic]
+wget/plucky,now 1.24.5-2ubuntu1 amd64 [installed,automatic]
+whiptail/plucky,now 0.52.24-4ubuntu2 amd64 [installed,automatic]
+whoopsie-preferences/plucky,now 23build3 amd64 [installed,automatic]
+whoopsie/plucky,now 0.2.79 amd64 [installed,automatic]
+wireless-regdb/plucky,now 2024.10.07-0ubuntu2 all [installed,automatic]
+wireplumber/plucky,now 0.5.8-1 amd64 [installed,automatic]
+wpasupplicant/plucky,now 2:2.10-24 amd64 [installed,upgradable to: 2:2.10-24ubuntu0.1]
+wsdd/plucky,now 2:0.8-2ubuntu3 all [installed,automatic]
+x11-apps/plucky,now 7.7+11build3 amd64 [installed,automatic]
+x11-common/plucky,now 1:7.7+23ubuntu4 all [installed,automatic]
+x11-session-utils/plucky,now 7.7+6build2 amd64 [installed,automatic]
+x11-utils/plucky,now 7.7+7 amd64 [installed,automatic]
+x11-xkb-utils/plucky,now 7.7+9 amd64 [installed,automatic]
+x11-xserver-utils/plucky,now 7.7+11 amd64 [installed,automatic]
+xauth/plucky,now 1:1.1.2-1.1 amd64 [installed,automatic]
+xbitmaps/plucky,now 1.1.1-2.2 all [installed,automatic]
+xbrlapi/plucky,now 6.7-1ubuntu3 amd64 [installed,automatic]
+xcursor-themes/plucky,now 1.0.6-0ubuntu1 all [installed,automatic]
+xcvt/plucky,now 0.1.3-1 amd64 [installed,automatic]
+xdg-dbus-proxy/plucky,now 0.1.6-1 amd64 [installed,automatic]
+xdg-desktop-portal-gnome/plucky,now 48.0-2ubuntu1 amd64 [installed,automatic]
+xdg-desktop-portal-gtk/plucky,now 1.15.3-1 amd64 [installed,automatic]
+xdg-desktop-portal/plucky,now 1.20.0+ds-2ubuntu1 amd64 [installed,upgradable to: 1.20.0+ds-2ubuntu1.1]
+xdg-terminal-exec/plucky,now 0.12.1-3 all [installed,automatic]
+xdg-user-dirs-gtk/plucky,now 0.14-1 amd64 [installed,automatic]
+xdg-user-dirs/plucky,now 0.18-2 amd64 [installed,automatic]
+xdg-utils/plucky,now 1.2.1-2ubuntu1 all [installed,automatic]
+xfonts-base/plucky,now 1:1.0.5+nmu1 all [installed,automatic]
+xfonts-encodings/plucky,now 1:1.0.5-0ubuntu2 all [installed,automatic]
+xfonts-scalable/plucky,now 1:1.0.3-1.3 all [installed,automatic]
+xfonts-utils/plucky,now 1:7.7+7 amd64 [installed,automatic]
+xinit/plucky,now 1.4.2-1 amd64 [installed,automatic]
+xinput/plucky,now 1.6.4-1build1 amd64 [installed,automatic]
+xkb-data/plucky,now 2.42-1ubuntu1 all [installed,automatic]
+xml-core/plucky,now 0.19 all [installed,automatic]
+xorg-docs-core/plucky,now 1:1.7.1-1.2 all [installed,automatic]
+xorg/plucky,now 1:7.7+23ubuntu4 amd64 [installed,automatic]
+xserver-common/plucky-updates,plucky-security,now 2:21.1.16-1ubuntu1.1 all [installed,automatic]
+xserver-xephyr/plucky-updates,plucky-security,now 2:21.1.16-1ubuntu1.1 amd64 [installed,automatic]
+xserver-xorg-core/plucky-updates,plucky-security,now 2:21.1.16-1ubuntu1.1 amd64 [installed,automatic]
+xserver-xorg-input-all/plucky,now 1:7.7+23ubuntu4 amd64 [installed,automatic]
+xserver-xorg-input-libinput/plucky,now 1.5.0-1 amd64 [installed,automatic]
+xserver-xorg-input-wacom/plucky,now 1:1.2.0-1ubuntu2 amd64 [installed,automatic]
+xserver-xorg-legacy/plucky-updates,plucky-security,now 2:21.1.16-1ubuntu1.1 amd64 [installed,automatic]
+xserver-xorg-video-all/plucky,now 1:7.7+23ubuntu4 amd64 [installed,automatic]
+xserver-xorg-video-amdgpu/plucky,now 23.0.0-1build1 amd64 [installed,automatic]
+xserver-xorg-video-ati/plucky,now 1:22.0.0-1build1 amd64 [installed,automatic]
+xserver-xorg-video-fbdev/plucky,now 1:0.5.0-2build2 amd64 [installed,automatic]
+xserver-xorg-video-intel/plucky,now 2:2.99.917+git20210115-1build1 amd64 [installed,automatic]
+xserver-xorg-video-nouveau/plucky,now 1:1.0.18-1 amd64 [installed,automatic]
+xserver-xorg-video-qxl/plucky,now 0.1.6-1.1 amd64 [installed,automatic]
+xserver-xorg-video-radeon/plucky,now 1:22.0.0-1build1 amd64 [installed,automatic]
+xserver-xorg-video-vesa/plucky,now 1:2.6.0-1ubuntu1 amd64 [installed,automatic]
+xserver-xorg-video-vmware/plucky,now 1:13.4.0-1build1 amd64 [installed,automatic]
+xserver-xorg/plucky,now 1:7.7+23ubuntu4 amd64 [installed,automatic]
+xwayland/plucky-updates,plucky-security,now 2:24.1.6-1ubuntu0.1 amd64 [installed,automatic]
+xxd/plucky-updates,plucky-security,now 2:9.1.0967-1ubuntu4.1 amd64 [installed,automatic]
+xz-utils/plucky,now 5.6.4-1ubuntu1 amd64 [installed,automatic]
+yaru-theme-gnome-shell/plucky,now 25.04.1-0ubuntu1 all [installed,automatic]
+yaru-theme-gtk/plucky,now 25.04.1-0ubuntu1 all [installed,automatic]
+yaru-theme-icon/plucky,now 25.04.1-0ubuntu1 all [installed,automatic]
+yaru-theme-sound/plucky,now 25.04.1-0ubuntu1 all [installed,automatic]
+yelp-xsl/plucky-updates,plucky-security,now 42.1-3ubuntu0.1 all [installed,automatic]
+yelp/plucky-updates,plucky-security,now 42.2-2ubuntu0.1 amd64 [installed,automatic]
+zenity-common/plucky,now 4.1.90-1 all [installed,automatic]
+zenity/plucky,now 4.1.90-1 amd64 [installed,automatic]
+zip/plucky,now 3.0-14ubuntu2 amd64 [installed,automatic]
+zlib1g/plucky,now 1:1.3.dfsg+really1.3.1-1ubuntu1 amd64 [installed,automatic]
+zstd/plucky,now 1.5.6+dfsg-2 amd64 [installed,automatic]
